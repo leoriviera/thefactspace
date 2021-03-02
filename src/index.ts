@@ -1,4 +1,7 @@
+import path from 'path';
+
 import express from 'express';
+import favicon from 'serve-favicon';
 
 import facts from './facts';
 
@@ -31,6 +34,7 @@ const getRandomFact = () => {
 // Create an Express app, and specify pug as the view engine
 const app = express();
 app.set('view engine', 'pug');
+app.use(favicon(path.join(__dirname, 'public', 'images', 'favicon.ico')));
 
 // On request to '/'...
 app.get('/', (_, res) => {

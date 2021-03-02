@@ -17,9 +17,11 @@ app.set('view engine', 'pug');
 
 app.get('/', (_, res) => {
     const randomFact = getRandomFact();
+    const count = facts.length;
+
     res.render('index', {
         ...randomFact,
-        count: facts.length,
+        count,
     });
 });
 

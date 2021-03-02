@@ -35,20 +35,11 @@ app.get('/', (_, res) => {
 
 // Fetch a random fact
 app.get('/random', (req, res) => {
-    const { type } = req.query;
-
     // Get a fact
     const fact = getRandomFact();
 
-    // If the text type is specified...
-    if (type === 'text') {
-        // Return the fact's text
-        const { text } = fact;
-        res.send(text);
-    } else {
-        // Return the fact object
-        res.json(fact);
-    }
+    // Return the fact object
+    res.json(fact);
 });
 
 // When fetching a fact by index...

@@ -75,7 +75,10 @@ app.get('/fact/:index?', (req, res) => {
             res.json(fact);
         } else {
             // Send error
-            res.status(404).send(`Fact #${index} not found.`);
+            res.status(404).send({
+                index: indexInt,
+                text: `Fact #${indexInt} hasn't been added, yet!`,
+            });
         }
     }
 });

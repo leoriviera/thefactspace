@@ -10152,6 +10152,451 @@ const facts = [
         text: 'The surface of Mars is covered in rust, making the planet appear red.',
         source: 'https://kidsactivitiesblog.com/76701/50-random-facts/',
     },
+    {
+        text:
+            'Christian Bale reportedly studied Tom Cruise’s mannerisms to prepare for his role as a serial killer Patrick Bateman in American Psycho.',
+        source: 'https://www.sporcle.com/blog/2018/11/101-more-interesting-trivia-facts/',
+    },
+    {
+        text:
+            'Gene Autry is the only person to be awarded stars in all five categories on the Hollywood Walk of Fame (film, television, music, radio, and live performance).',
+        source: 'https://www.sporcle.com/blog/2018/11/101-more-interesting-trivia-facts/',
+    },
+    {
+        text: 'The word “PEZ” comes from the German word for peppermint – PfeffErminZ.',
+        source: 'https://www.sporcle.com/blog/2018/11/101-more-interesting-trivia-facts/',
+    },
+    {
+        text: 'There are 11 U.S. states have land farther south than the most northern point of Mexico.',
+        source: 'https://www.sporcle.com/blog/2018/11/101-more-interesting-trivia-facts/',
+    },
+    {
+        text: 'There is a Boring, Oregon and a Dull, Scotland. They have been sister cities since 2012.',
+        source: 'https://www.sporcle.com/blog/2018/11/101-more-interesting-trivia-facts/',
+    },
+    {
+        text:
+            'Actress Nichelle Nichols, who played Lieutenant Uhura in the original Star Trek, almost quit the show after one season, but was persuaded to stay on by Martin Luther King Jr., who felt the role was important to the Civil Rights Movement.',
+        source: 'https://www.sporcle.com/blog/2018/11/101-more-interesting-trivia-facts/',
+    },
+    {
+        text: 'The term “soccer” comes from the UK, where it was derived from a short form of “Association Football.”',
+        source: 'https://www.sporcle.com/blog/2018/11/101-more-interesting-trivia-facts/',
+    },
+    {
+        text:
+            'Defeated only once in roughly 300 matches, President Abraham Lincoln was inducted into the National Wrestling Hall Of Fame in 1992.',
+        source: 'https://www.sporcle.com/blog/2018/11/101-more-interesting-trivia-facts/',
+    },
+    {
+        text:
+            'The Sahara is the largest non-polar desert in the world. It is comparable in size to China or the United States.',
+        source: 'https://www.sporcle.com/blog/2018/11/101-more-interesting-trivia-facts/',
+    },
+    {
+        text: 'It’s been said that nearly 3% of the ice in Antarctic glaciers is penguin urine.',
+        source: 'https://www.sporcle.com/blog/2018/11/101-more-interesting-trivia-facts/',
+    },
+    {
+        text:
+            'The first tiger shark to hatch inside of its mother’s womb eats all the other embryos of its siblings. Even scientists admit that this is an unusual mode of survival.',
+        source: 'https://www.sporcle.com/blog/2018/11/101-more-interesting-trivia-facts/',
+    },
+    {
+        text:
+            'The the Kola Superdeep Borehole in Russia is the world’s deepest hole. It is 7.5 miles deep, but interestingly, only 9 inches wide.',
+        source: 'https://www.sporcle.com/blog/2018/11/101-more-interesting-trivia-facts/',
+    },
+    {
+        text:
+            'King Henry VIII had a “Groom of the Stool”, whose job was to monitor and assist in the King’s bowel motions. The role remained in existence until King Edward VII abolished it in 1901.',
+        source: 'https://www.sporcle.com/blog/2018/11/101-more-interesting-trivia-facts/',
+    },
+    {
+        text:
+            'With an average height of about 13,000 feet and stretching for 4,300 miles, the Andes Mountains are the longest continental mountain range in the world.',
+        source: 'https://www.sporcle.com/blog/2018/11/101-more-interesting-trivia-facts/',
+    },
+    {
+        text: 'High heeled shoes were originally created for men.',
+        source: 'https://www.sporcle.com/blog/2018/11/101-more-interesting-trivia-facts/',
+    },
+    {
+        text: 'The word “orange” was first used to describe the fruit, not the color.',
+        source: 'https://www.sporcle.com/blog/2018/11/101-more-interesting-trivia-facts/',
+    },
+    {
+        text: 'Up to 12 million Dum Dums are made every single day.',
+        source: 'https://www.sporcle.com/blog/2018/11/101-more-interesting-trivia-facts/',
+    },
+    {
+        text:
+            'Kenny Baker, who played R2-D2 in the Star Wars franchise, once called Anthony Daniels, or C-3PO, “the rudest man” he’s ever met.',
+        source: 'https://www.sporcle.com/blog/2018/11/101-more-interesting-trivia-facts/',
+    },
+    {
+        text:
+            'Whether measuring by size (0.17 sq mi) or population (1,000), Vatican City is the smallest country in the world.',
+        source: 'https://www.sporcle.com/blog/2018/11/101-more-interesting-trivia-facts/',
+    },
+    {
+        text:
+            'In 1916, Jeanette Rankin became the first female member of Congress in America, four years before women were given the right to vote.',
+        source: 'https://www.sporcle.com/blog/2018/11/101-more-interesting-trivia-facts/',
+    },
+    {
+        text: 'Baby porcupines are called “porcupettes”.',
+        source: 'https://www.sporcle.com/blog/2018/11/101-more-interesting-trivia-facts/',
+    },
+    {
+        text:
+            'Mount Rushmore almost featured the heads of famous American West heroes, like Buffalo Bill Cody, but the lead sculptor argued that the subjects should be more recognizable.',
+        source: 'https://www.sporcle.com/blog/2018/11/101-more-interesting-trivia-facts/',
+    },
+    {
+        text:
+            'At the 1908 Olympics, the Russians showed up 12 days late because they were using the Julian calendar instead of the Gregorian calendar.',
+        source: 'https://www.sporcle.com/blog/2018/11/101-more-interesting-trivia-facts/',
+    },
+    {
+        text:
+            'The Amazon Forest is the largest natural rainforest in the world. At 2.7 million square miles, it covers 40% of South America.',
+        source: 'https://www.sporcle.com/blog/2018/11/101-more-interesting-trivia-facts/',
+    },
+    {
+        text:
+            'China owns nearly all of the pandas in the world, even the ones you see at zoos. They rent them out for about $1 million a year.',
+        source: 'https://www.sporcle.com/blog/2018/11/101-more-interesting-trivia-facts/',
+    },
+    {
+        text:
+            'Beer is one of the oldest recorded recipes in the world, with documentations of the beverage dating back to around 5,000 BC and the ancient Egyptians.',
+        source: 'https://www.sporcle.com/blog/2018/11/101-more-interesting-trivia-facts/',
+    },
+    {
+        text:
+            'Lasting only 38 minutes, the Anglo-Zanzibar War of 1896 is generally considered to be the shortest war in history.',
+        source: 'https://www.sporcle.com/blog/2018/11/101-more-interesting-trivia-facts/',
+    },
+    {
+        text: 'Bubble Wrap was originally intended to be used as 3D wallpaper.',
+        source: 'https://www.sporcle.com/blog/2018/11/101-more-interesting-trivia-facts/',
+    },
+    {
+        text:
+            'Due to a discrepancy over border recognition between Egypt and Sudan, there is a region in Africa called Bir Tawil that belongs to no country.',
+        source: 'https://www.sporcle.com/blog/2018/11/101-more-interesting-trivia-facts/',
+    },
+    {
+        text:
+            'At 3’7″, Eddie Gaedel was the smallest Major League Baseball player of all time. He walked in his only plate appearance.',
+        source: 'https://www.sporcle.com/blog/2018/11/101-more-interesting-trivia-facts/',
+    },
+    {
+        text:
+            'Valles Marineris, a canyon on Mars, would stretch from from Los Angeles to the Atlantic coast if it were on Earth.',
+        source: 'https://www.sporcle.com/blog/2018/11/101-more-interesting-trivia-facts/',
+    },
+    {
+        text:
+            'Serial killer Ted Bundy once received a commendation from the Seattle Police Department for chasing down a purse snatcher.',
+        source: 'https://www.sporcle.com/blog/2018/11/101-more-interesting-trivia-facts/',
+    },
+    {
+        text: 'Americans consume around 150 million hot dogs on 4th of July each year.',
+        source: 'https://www.sporcle.com/blog/2018/11/101-more-interesting-trivia-facts/',
+    },
+    {
+        text: 'The Caspian Sea is the largest enclosed inland body of water on Earth.',
+        source: 'https://www.sporcle.com/blog/2018/11/101-more-interesting-trivia-facts/',
+    },
+    {
+        text: 'Lord Byron allegedly kept a pet bear in his dorm room while studying at Cambridge University.',
+        source: 'https://www.sporcle.com/blog/2018/11/101-more-interesting-trivia-facts/',
+    },
+    {
+        text: 'Geologic activity around the Ring of Fire is responsible for roughly 90% of all earthquakes worldwide.',
+        source: 'https://www.sporcle.com/blog/2018/11/101-more-interesting-trivia-facts/',
+    },
+    {
+        text:
+            'During World War II, Queen Elizabeth II, then an 18-year-old princess, trained in London as a mechanic and military truck driver.',
+        source: 'https://www.sporcle.com/blog/2018/11/101-more-interesting-trivia-facts/',
+    },
+    {
+        text: 'The heart of a shrimp is located in its head.',
+        source: 'https://www.sporcle.com/blog/2018/11/101-more-interesting-trivia-facts/',
+    },
+    {
+        text: 'Canada has more lakes than anywhere in the world. 9% of the country is covered in fresh water.',
+        source: 'https://www.sporcle.com/blog/2018/11/101-more-interesting-trivia-facts/',
+    },
+    {
+        text: 'President Richard Nixon was at Disney World when he infamously proclaimed, “I am not a crook.”',
+        source: 'https://www.sporcle.com/blog/2018/11/101-more-interesting-trivia-facts/',
+    },
+    {
+        text: 'A group of flamingos is called a “flamboyance”.',
+        source: 'https://www.sporcle.com/blog/2018/11/101-more-interesting-trivia-facts/',
+    },
+    {
+        text:
+            'The World Wrestling Federation (WWF) had to change their name to World Wrestling Entertainment (WWE) because of legal action taken by the World Wildlife Fund (WWF).',
+        source: 'https://www.sporcle.com/blog/2018/11/101-more-interesting-trivia-facts/',
+    },
+    {
+        text:
+            'According to John Lennon, the imagery in the song “Lucy in the Sky with Diamonds” was inspired by the work of Lewis Carroll.',
+        source: 'https://www.sporcle.com/blog/2018/11/101-more-interesting-trivia-facts/',
+    },
+    {
+        text: 'There are more than 7,000 different Caribbean islands, but only about 2% of them are inhabited.',
+        source: 'https://www.sporcle.com/blog/2018/11/101-more-interesting-trivia-facts/',
+    },
+    {
+        text:
+            'It’s been estimated that a new baby can rob parents of anywhere between 400-750 hours of sleep in the first year.',
+        source: 'https://www.sporcle.com/blog/2018/11/101-more-interesting-trivia-facts/',
+    },
+    {
+        text:
+            'Whatcom County in the state of Washington unanimously passed a resolution declaring the region a Sasquatch Protection and Refuge Area.',
+        source: 'https://www.sporcle.com/blog/2018/11/101-more-interesting-trivia-facts/',
+    },
+    {
+        text:
+            'Titan, Saturn’s largest moon, is the only moon known to have a fully developed atmosphere. In fact, it is about 50% denser than Earth’s.',
+        source: 'https://www.sporcle.com/blog/2018/11/101-more-interesting-trivia-facts/',
+    },
+    {
+        text: 'Since 1945, all British tanks have come equipped with tea making facilities.',
+        source: 'https://www.sporcle.com/blog/2018/11/101-more-interesting-trivia-facts/',
+    },
+    {
+        text: 'Reno, Nevada is west of Los Angeles, California.',
+        source: 'https://www.sporcle.com/blog/2018/11/101-more-interesting-trivia-facts/',
+    },
+    {
+        text: 'Babe Ruth’s 54 home runs in 1920 were more than the total hit by 14 of 15 other MLB teams.',
+        source: 'https://www.sporcle.com/blog/2018/11/101-more-interesting-trivia-facts/',
+    },
+    {
+        text:
+            'You actually can see Russia from Alaska. Given the correct weather conditions in the Bering Sea, you can see the island of Big Diomede, Russia, from the smaller island of Little Diomede, Alaska.',
+        source: 'https://www.sporcle.com/blog/2018/11/101-more-interesting-trivia-facts/',
+    },
+    {
+        text: 'Many lipsticks contain fish scales.',
+        source: 'https://www.sporcle.com/blog/2018/11/101-more-interesting-trivia-facts/',
+    },
+    {
+        text:
+            'After three-letter airport codes became standard, airports that had previously been using only two letters simply added an X.',
+        source: 'https://www.sporcle.com/blog/2018/11/101-more-interesting-trivia-facts/',
+    },
+    {
+        text: 'At 3,212 feet high, Angel Falls in Venezuela is the highest uninterrupted waterfall in the world.',
+        source: 'https://www.sporcle.com/blog/2018/11/101-more-interesting-trivia-facts/',
+    },
+    {
+        text: 'Prairie dogs say “hello” by kissing.',
+        source: 'https://www.sporcle.com/blog/2018/11/101-more-interesting-trivia-facts/',
+    },
+    {
+        text:
+            'With a fortune of $336 billion when adjusted for inflation, oil tycoon John D. Rockefeller is the wealthiest person in U.S. history.',
+        source: 'https://www.sporcle.com/blog/2018/11/101-more-interesting-trivia-facts/',
+    },
+    {
+        text:
+            'Liberty Island, the home of the Statue of Liberty, might belong to New York City, but it is surrounded by the waters of Jersey City, and is actually closer to the New Jersey mainland.',
+        source: 'https://www.sporcle.com/blog/2018/11/101-more-interesting-trivia-facts/',
+    },
+    {
+        text: 'According to AT&T, more collect phone calls are made on Father’s Day than any other holiday.',
+        source: 'https://www.sporcle.com/blog/2018/11/101-more-interesting-trivia-facts/',
+    },
+    {
+        text: 'India and China are the only countries in the world with populations above 1 billion people.',
+        source: 'https://www.sporcle.com/blog/2018/11/101-more-interesting-trivia-facts/',
+    },
+    {
+        text: 'At just 135 words, George Washington’s second inaugural address remains the shortest ever delivered.',
+        source: 'https://www.sporcle.com/blog/2018/11/101-more-interesting-trivia-facts/',
+    },
+    {
+        text: 'The medical term for a gurgling stomach is “borborygmus”.',
+        source: 'https://www.sporcle.com/blog/2018/11/101-more-interesting-trivia-facts/',
+    },
+    {
+        text: 'Despite their names, Iceland isn’t covered in ice and Greenland isn’t very green.',
+        source: 'https://www.sporcle.com/blog/2018/11/101-more-interesting-trivia-facts/',
+    },
+    {
+        text: 'A single cow can make roughly 200,000 glasses of milk in a lifetime.',
+        source: 'https://www.sporcle.com/blog/2018/11/101-more-interesting-trivia-facts/',
+    },
+    {
+        text: 'Roughly 30% of the Earth’s remaining mineral resources can be found in Africa.',
+        source: 'https://www.sporcle.com/blog/2018/11/101-more-interesting-trivia-facts/',
+    },
+    {
+        text:
+            'The largest sand castle in the world was built in Germany and was over 54 feet high. It took 168 trucks over a week to deliver enough sand.',
+        source: 'https://www.sporcle.com/blog/2018/11/101-more-interesting-trivia-facts/',
+    },
+    {
+        text: 'Earth is not a perfect sphere. Our planet is squashed at its poles and swollen at the equator.',
+        source: 'https://www.sporcle.com/blog/2018/11/101-more-interesting-trivia-facts/',
+    },
+    {
+        text:
+            'The U.S. Supreme Court has its own private basketball court. It’s been nicknamed, “The Highest Court in the Land”.',
+        source: 'https://www.sporcle.com/blog/2018/11/101-more-interesting-trivia-facts/',
+    },
+    {
+        text: 'A snail can sleep for three years.',
+        source: 'https://www.sporcle.com/blog/2018/11/101-more-interesting-trivia-facts/',
+    },
+    {
+        text: 'Earth’s highest point on land (Mt. Everest), and lowest (Dead Sea), are both found in Asia.',
+        source: 'https://www.sporcle.com/blog/2018/11/101-more-interesting-trivia-facts/',
+    },
+    {
+        text: 'The Cookie Monster has a real name. It’s Sid.',
+        source: 'https://www.sporcle.com/blog/2018/11/101-more-interesting-trivia-facts/',
+    },
+    {
+        text: 'Rhode Island might be the smallest state in terms of land area, but Wyoming is the least populated.',
+        source: 'https://www.sporcle.com/blog/2018/11/101-more-interesting-trivia-facts/',
+    },
+    {
+        text: 'Barry Manilow’s hit, “I Write the Songs”, wasn’t written by him.',
+        source: 'https://www.sporcle.com/blog/2018/11/101-more-interesting-trivia-facts/',
+    },
+    {
+        text:
+            'After he retired, Dwight D. Eisenhower’s secret service code name became “Scorecard” because of his affinity for golf.',
+        source: 'https://www.sporcle.com/blog/2018/11/101-more-interesting-trivia-facts/',
+    },
+    {
+        text: 'Indonesia is made up of over 17,000 islands.',
+        source: 'https://www.sporcle.com/blog/2018/11/101-more-interesting-trivia-facts/',
+    },
+    {
+        text:
+            'Stretching over 1,600 miles, the Great Barrier Reef is the world’s biggest single structure made by living organisms.',
+        source: 'https://www.sporcle.com/blog/2018/11/101-more-interesting-trivia-facts/',
+    },
+    {
+        text: 'In 2009, Scottish scientists searching for the Loch Ness Monster found 100,000 golf balls instead.',
+        source: 'https://www.sporcle.com/blog/2018/11/101-more-interesting-trivia-facts/',
+    },
+    {
+        text:
+            'Saint Patrick never banished snakes from Ireland. Scientist believe the island has been snake-free since the Ice Age.',
+        source: 'https://www.sporcle.com/blog/2018/11/101-more-interesting-trivia-facts/',
+    },
+    {
+        text: 'When spliced together, there are 26 minutes of quiet staring in the Twilight film series.',
+        source: 'https://www.sporcle.com/blog/2018/11/101-more-interesting-trivia-facts/',
+    },
+    {
+        text: 'There is no spot in Central America more than 125 miles from the ocean.',
+        source: 'https://www.sporcle.com/blog/2018/11/101-more-interesting-trivia-facts/',
+    },
+    {
+        text: 'There’s a village in Norway called Hell, and it freezes over every winter.',
+        source: 'https://www.sporcle.com/blog/2018/11/101-more-interesting-trivia-facts/',
+    },
+    {
+        text: 'Koalas and humans have remarkably similar fingerprints.',
+        source: 'https://www.sporcle.com/blog/2018/11/101-more-interesting-trivia-facts/',
+    },
+    {
+        text:
+            'S.O.S. does not stand for anything. It was created as a universal distress signal because it is a simple, unmistakable message when sent via Morse Code.',
+        source: 'https://www.sporcle.com/blog/2018/11/101-more-interesting-trivia-facts/',
+    },
+    {
+        text: 'Pluto’s average distance from the Sun is 3,670,050,000 miles.',
+        source: 'https://www.sporcle.com/blog/2018/11/101-more-interesting-trivia-facts/',
+    },
+    {
+        text: 'At 4,101 feet, Mt. Thor on Baffin Island, Canada, has Earth’s greatest sheer vertical drop.',
+        source: 'https://www.sporcle.com/blog/2018/11/101-more-interesting-trivia-facts/',
+    },
+    {
+        text: 'With 94% identical DNA, Chimpanzees are the closest living relatives to humans.',
+        source: 'https://www.sporcle.com/blog/2018/11/101-more-interesting-trivia-facts/',
+    },
+    {
+        text: 'Tootsie Rolls were used as part of the rations for World War II soldiers.',
+        source: 'https://www.sporcle.com/blog/2018/11/101-more-interesting-trivia-facts/',
+    },
+    {
+        text: 'The French territory of Louisiana was purchased by the U.S. in 1803 for roughly four cents per acre.',
+        source: 'https://www.sporcle.com/blog/2018/11/101-more-interesting-trivia-facts/',
+    },
+    {
+        text: 'A pluot is a hybrid between a plum and a apricot.',
+        source: 'https://www.sporcle.com/blog/2018/11/101-more-interesting-trivia-facts/',
+    },
+    {
+        text:
+            'There are seven different villages in Denmark, Sweden, and Norway with the name Å (it translates to “river” in Scandinavian languages).',
+        source: 'https://www.sporcle.com/blog/2018/11/101-more-interesting-trivia-facts/',
+    },
+    {
+        text: 'Aulophobia is an exaggerated or irrational fear of flutes.',
+        source: 'https://www.sporcle.com/blog/2018/11/101-more-interesting-trivia-facts/',
+    },
+    {
+        text: 'In the last row of the U.S. Senate Chamber, there is a desk that is always stocked with candy.',
+        source: 'https://www.sporcle.com/blog/2018/11/101-more-interesting-trivia-facts/',
+    },
+    {
+        text:
+            'In 1986, one year after Steve Jobs resigned as chairman, Apple launched a clothing line called “The Apple Collection”.',
+        source: 'https://www.sporcle.com/blog/2018/11/101-more-interesting-trivia-facts/',
+    },
+    {
+        text:
+            'An Egyptian Pharaoh named King Pepy II commonly smothered his servants in honey to keep flies away from him.',
+        source: 'https://www.sporcle.com/blog/2018/11/101-more-interesting-trivia-facts/',
+    },
+    {
+        text:
+            'With a population of 37,308 and an area less than 1 square mile, Monaco is the most densely populated nation in the world.',
+        source: 'https://www.sporcle.com/blog/2018/11/101-more-interesting-trivia-facts/',
+    },
+    {
+        text: 'It takes light from the Sun 8 minutes to reach Earth.',
+        source: 'https://www.sporcle.com/blog/2018/11/101-more-interesting-trivia-facts/',
+    },
+    {
+        text: 'Elephants can’t jump.',
+        source: 'https://www.sporcle.com/blog/2018/11/101-more-interesting-trivia-facts/',
+    },
+    {
+        text:
+            'Grover Cleveland was both the 22nd and 24th U.S. President. He is the only man to have been elected to non-consecutive presidential terms.',
+        source: 'https://www.sporcle.com/blog/2018/11/101-more-interesting-trivia-facts/',
+    },
+    {
+        text:
+            'The suffix -stan is Persian for “place of” or “country”, which explains why so many countries end with it.',
+        source: 'https://www.sporcle.com/blog/2018/11/101-more-interesting-trivia-facts/',
+    },
+    {
+        text:
+            'The Atacama Desert is the driest non-polar region on Earth. Some weather stations in the Atacama have never received rain.',
+        source: 'https://www.sporcle.com/blog/2018/11/101-more-interesting-trivia-facts/',
+    },
+    {
+        text: 'The U.S. Supreme Court has previously ruled that tomatoes are vegetables.',
+        source: 'https://www.sporcle.com/blog/2018/11/101-more-interesting-trivia-facts/',
+    },
 ];
 
 export default facts;

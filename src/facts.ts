@@ -73,7 +73,7 @@ const facts = [
     },
     {
         text:
-            'The very first bomb dropped by the Allies on Berlin during World War II Killed the only elephant in the Berlin Zoo.',
+            'The very first bomb dropped by the Allies on Berlin during World War II killed the only elephant in the Berlin Zoo.',
         source: 'https://www.djtech.net/humor/useless_facts.htm',
     },
     {

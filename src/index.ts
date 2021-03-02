@@ -7,20 +7,24 @@ const getRandomFact = () => {
     const index = Math.floor(Math.random() * facts.length);
     // Get random fact
     const fact = facts[index];
-    return { index, fact };
+    return {
+        index,
+        ...fact,
+    };
 };
 
 const app = express();
 app.set('view engine', 'pug');
 
 app.get('/', (_, res) => {
-    const { index, fact } = getRandomFact();
+    const fact = getRandomFact();
     const factCount = facts.length;
 
+    console.log(factCount);
+
     res.render('index', {
-        index,
         ...fact,
-        factCount,
+        count,
     });
 });
 
@@ -28,15 +32,20 @@ app.get('/fact/:index?', (req, res) => {
     const { index } = req.params;
     const indexInt = parseInt(index);
 
-    console.log(index, indexInt, indexInt == NaN);
-
     if (isNaN(indexInt)) {
         res.redirect('/random');
+    } else {
+        const fact = facts[indexInt];
+
+        if (fact !== undefined) {
+            res.json({
+                index,
+                ...fact,
+            });
+        } else {
+            res.status(404).send(`Fact #${index} not found.`);
+        }
     }
-
-    const fact = facts[indexInt];
-
-    res.json(fact);
 });
 
 app.get('/random', (_, res) => {

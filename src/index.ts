@@ -19,6 +19,7 @@ app.get('/', (_, res) => {
     const randomFact = getRandomFact();
     res.render('index', {
         ...randomFact,
+        count: facts.length,
     });
 });
 

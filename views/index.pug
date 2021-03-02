@@ -1,7 +1,29 @@
-html
-  head
-    title Facts Nobody Asked For
-  body
-    h1 Fact ##{index}: #{text}
-    h3 Fact from #[a(href=source) #{source}]
-    h5 Made by #[a(href="https://github.com/leoriviera/facts-api") Leo.] I'll get around to polishing this up soon, I promise. Call the endpoint #[a(href='./random') /random] to get one of #{factCount} facts as a JSON response. Please use wisely.
+doctype html
+html(lang='en')
+head
+  meta(charset='utf-8')
+  meta(http-equiv='X-UA-Compatible' content='IE=edge')
+  meta(name='viewport' content='width=device-width, initial-scale=1')
+
+  link(rel='stylesheet' href='https://fonts.googleapis.com/css2?family=Shippori+Mincho:wght@400;500;600&display=swap')
+  link(rel='stylesheet' href='https://unpkg.com/bulma@0.9.0/css/bulma.min.css')
+
+  style
+    include ./css/index.css
+
+  title Facts Nobody Asked For
+
+body
+  section.hero.is-fullheight
+    div.hero-body
+      div.container.has-text-centered
+        div.column.is-6.is-offset-3
+          h1.has-text-weight-light
+            span.is-size-4.is-uppercase
+              | Fact ##{index}
+            span.is-size-5
+              |  from
+            span.is-size-5.is-italic
+              |  #[a(href=source) here].
+          h2.fact.is-size-2.has-text-weight-semibold.mb-4 #{text}
+          h4.is-size-6 An #[a(href="https://github.com/leoriviera/facts-api") open source project] by Leo. Call the endpoint #[a(href='./random') /random] to get one of #{factCount} facts.

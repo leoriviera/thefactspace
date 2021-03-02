@@ -8963,7 +8963,7 @@ const facts = [
     },
     {
         text:
-            'There are more people in the U.K. than in Canada, Australia, Norway, and Iceland combined. The U.K population is over 65 million.',
+            "There are more people in the U.K. than in Canada, Australia, Norway, and Iceland combined. The U.K.'s population is over 65 million.",
         source: 'https://www.thefactsite.com/1000-interesting-facts/',
     },
     {

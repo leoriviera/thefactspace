@@ -10127,7 +10127,7 @@ const facts = [
     },
     {
         text:
-            'There is a 50% chance that in a group of 23 people, two will share the same birthday.  In a group of 367 people, it is a 100% chance.  But only 70 people are required for a 99.9% chance. ',
+            'There is a 50% chance that in a group of 23 people, two will share the same birthday. In a group of 367 people, it is a 100% chance. But only 70 people are required for a 99.9% chance.',
         source: 'https://kidsactivitiesblog.com/76701/50-random-facts/',
     },
     {

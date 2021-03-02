@@ -132,7 +132,7 @@ const facts = [
         source: 'https://www.djtech.net/humor/useless_facts.htm',
     },
     {
-        text: 'In the United States, a pound of potato chips costs two hundred times more than a pound of potatoes.  ',
+        text: 'In the United States, a pound of potato chips costs two hundred times more than a pound of potatoes. ',
         source: 'https://www.djtech.net/humor/useless_facts.htm',
     },
     {
@@ -1329,7 +1329,7 @@ const facts = [
         source: 'https://www.djtech.net/humor/useless_facts.htm',
     },
     {
-        text: 'The symbol on the "pound" key (#) is called an octothorpe..  ',
+        text: 'The symbol on the "pound" key (#) is called an octothorpe.. ',
         source: 'https://www.djtech.net/humor/useless_facts.htm',
     },
     {
@@ -1337,7 +1337,7 @@ const facts = [
         source: 'https://www.djtech.net/humor/useless_facts.htm',
     },
     {
-        text: 'Ingrown toenails are hereditary.  ',
+        text: 'Ingrown toenails are hereditary. ',
         source: 'https://www.djtech.net/humor/useless_facts.htm',
     },
     {
@@ -1346,12 +1346,12 @@ const facts = [
     },
     {
         text:
-            'The longest word in the English language, according to the Oxford English Dictionary, is: pneumonoultramicroscopicsilicovolcanoconiosis..  ',
+            'The longest word in the English language, according to the Oxford English Dictionary, is: pneumonoultramicroscopicsilicovolcanoconiosis.. ',
         source: 'https://www.djtech.net/humor/useless_facts.htm',
     },
     {
         text:
-            'The longest place-name still in use is: Taumatawhakatangihangakoauauotamateaturipukakapikimaungahoronukupokaiakitnatahu, a New Zealand hill.  ',
+            'The longest place-name still in use is: Taumatawhakatangihangakoauauotamateaturipukakapikimaungahoronukupokaiakitnatahu, a New Zealand hill. ',
         source: 'https://www.djtech.net/humor/useless_facts.htm',
     },
     {
@@ -1363,7 +1363,7 @@ const facts = [
         source: 'https://www.djtech.net/humor/useless_facts.htm',
     },
     {
-        text: 'Telly Savalas and Louis Armstrong died on their birthdays.  ',
+        text: 'Telly Savalas and Louis Armstrong died on their birthdays. ',
         source: 'https://www.djtech.net/humor/useless_facts.htm',
     },
     {
@@ -1371,7 +1371,7 @@ const facts = [
         source: 'https://www.djtech.net/humor/useless_facts.htm',
     },
     {
-        text: 'The muzzle of a lion is like a fingerprint - no two lions have the same pattern of whiskers.  ',
+        text: 'The muzzle of a lion is like a fingerprint - no two lions have the same pattern of whiskers. ',
         source: 'https://www.djtech.net/humor/useless_facts.htm',
     },
     {
@@ -1384,38 +1384,38 @@ const facts = [
     },
     {
         text:
-            'There is a seven letter word in the English language that contains ten words without rearranging any of its letters, "therein": the, there, he, in, rein, her, here, ere, therein, herein.  ',
+            'There is a seven letter word in the English language that contains ten words without rearranging any of its letters, "therein": the, there, he, in, rein, her, here, ere, therein, herein. ',
         source: 'https://www.djtech.net/humor/useless_facts.htm',
     },
     {
-        text: 'A goldfish has a memory span of three seconds.  ',
-        source: 'https://www.djtech.net/humor/useless_facts.htm',
-    },
-    {
-        text:
-            'Cranberries are sorted for ripeness by bouncing them; a fully ripened cranberry can be dribbled like a basketball.  ',
-        source: 'https://www.djtech.net/humor/useless_facts.htm',
-    },
-    {
-        text: 'The male gypsy moth can "smell" the virgin female gypsy moth from 1.8 miles away.  ',
-        source: 'https://www.djtech.net/humor/useless_facts.htm',
-    },
-    {
-        text: 'The letters KGB stand for Komitet Gosudarstvennoy Bezopasnosti.  ',
-        source: 'https://www.djtech.net/humor/useless_facts.htm',
-    },
-    {
-        text: 'The word "dexter" whose meaning refers to the right hand is typed with only the left hand.  ',
+        text: 'A goldfish has a memory span of three seconds. ',
         source: 'https://www.djtech.net/humor/useless_facts.htm',
     },
     {
         text:
-            'To "testify" was based on men in the Roman court swearing to a statement made by swearing on their testicles.  ',
+            'Cranberries are sorted for ripeness by bouncing them; a fully ripened cranberry can be dribbled like a basketball. ',
+        source: 'https://www.djtech.net/humor/useless_facts.htm',
+    },
+    {
+        text: 'The male gypsy moth can "smell" the virgin female gypsy moth from 1.8 miles away. ',
+        source: 'https://www.djtech.net/humor/useless_facts.htm',
+    },
+    {
+        text: 'The letters KGB stand for Komitet Gosudarstvennoy Bezopasnosti. ',
+        source: 'https://www.djtech.net/humor/useless_facts.htm',
+    },
+    {
+        text: 'The word "dexter" whose meaning refers to the right hand is typed with only the left hand. ',
         source: 'https://www.djtech.net/humor/useless_facts.htm',
     },
     {
         text:
-            'Facetious and abstemious contain all the vowels in the correct order, as does arsenious, meaning "containing arsenic."  ',
+            'To "testify" was based on men in the Roman court swearing to a statement made by swearing on their testicles. ',
+        source: 'https://www.djtech.net/humor/useless_facts.htm',
+    },
+    {
+        text:
+            'Facetious and abstemious contain all the vowels in the correct order, as does arsenious, meaning "containing arsenic." ',
         source: 'https://www.djtech.net/humor/useless_facts.htm',
     },
     {
@@ -1424,15 +1424,15 @@ const facts = [
     },
     {
         text:
-            'The first episode of "Joanie Loves Chachi" was the highest rated American program in the history of Korean television, a country where "Chachi" translates to "penis".  ',
+            'The first episode of "Joanie Loves Chachi" was the highest rated American program in the history of Korean television, a country where "Chachi" translates to "penis". ',
         source: 'https://www.djtech.net/humor/useless_facts.htm',
     },
     {
-        text: 'Rubber bands last longer when refrigerated.  ',
+        text: 'Rubber bands last longer when refrigerated. ',
         source: 'https://www.djtech.net/humor/useless_facts.htm',
     },
     {
-        text: 'The national anthem of Greece has 158 verses. No one in Greece has memorized all 158 verses.  ',
+        text: 'The national anthem of Greece has 158 verses. No one in Greece has memorized all 158 verses. ',
         source: 'https://www.djtech.net/humor/useless_facts.htm',
     },
     {
@@ -9952,6 +9952,212 @@ const facts = [
         text:
             'Doggerland is the area of land connecting Great Britain to continental Europe. It was flooded by rising sea-levels (6500-6200 BC), turning Great Britain into an island.',
         source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+
+    {
+        text: 'Giant Pandas eat approximately 28 pounds of bamboo a day – that’s over 5 tons per year!',
+        source: 'https://kidsactivitiesblog.com/76701/50-random-facts/',
+    },
+    {
+        text: 'The Nobel Peace Prize is named for Alfred Nobel, the inventor of dynamite.',
+        source: 'https://kidsactivitiesblog.com/76701/50-random-facts/',
+    },
+    {
+        text: 'Cats are not able to taste anything that is sweet.',
+        source: 'https://kidsactivitiesblog.com/76701/50-random-facts/',
+    },
+    {
+        text: 'You fart on average 14 times a day, and each fart travels from your body at 7 mph.',
+        source: 'https://kidsactivitiesblog.com/76701/50-random-facts/',
+    },
+    {
+        text: 'One of the ingredients needed to make dynamite is peanuts.',
+        source: 'https://kidsactivitiesblog.com/76701/50-random-facts/',
+    },
+    {
+        text:
+            'The largest living organism in the world is a fungus.  It is in Oregon, covering 2,200 acres and is still growing.',
+        source: 'https://kidsactivitiesblog.com/76701/50-random-facts/',
+    },
+    {
+        text:
+            'A horse’s canter is a 3-beat gait.  On the second beat, opposite front and rear legs hit the ground at the same time.  After the third beat is a “rest”, or suspension, when all three legs are off the ground.',
+        source: 'https://kidsactivitiesblog.com/76701/50-random-facts/',
+    },
+    {
+        text: 'Want chocolate smelling poo? There is a pill for that.',
+        source: 'https://kidsactivitiesblog.com/76701/50-random-facts/',
+    },
+    {
+        text: 'The shortest war in history lasted for only 38 minutes.',
+        source: 'https://kidsactivitiesblog.com/76701/50-random-facts/',
+    },
+    {
+        text: 'Sea Lions have rhythm. They are the only animal able to clap to a beat.',
+        source: 'https://kidsactivitiesblog.com/76701/50-random-facts/',
+    },
+    {
+        text: 'While you sleep you can’t smell anything – even really, really bad or potent smells.',
+        source: 'https://kidsactivitiesblog.com/76701/50-random-facts/',
+    },
+    {
+        text: 'Some tumors can grow hair, teeth, bones, even fingernails.',
+        source: 'https://kidsactivitiesblog.com/76701/50-random-facts/',
+    },
+    {
+        text: 'Your brain uses 10 watts of energy to think and does not feel pain.',
+        source: 'https://kidsactivitiesblog.com/76701/50-random-facts/',
+    },
+    {
+        text: 'Glass balls can bounce higher than rubber ones.',
+        source: 'https://kidsactivitiesblog.com/76701/50-random-facts/',
+    },
+    {
+        text: 'The smallest country in the world takes up .2 square miles: Vatican City.',
+        source: 'https://kidsactivitiesblog.com/76701/50-random-facts/',
+    },
+    {
+        text: 'Hippopotamus milk is pink.',
+        source: 'https://kidsactivitiesblog.com/76701/50-random-facts/',
+    },
+    {
+        text: 'Your fingernails grow faster when you are cold.',
+        source: 'https://kidsactivitiesblog.com/76701/50-random-facts/',
+    },
+    {
+        text: 'Applesauce was the first food eaten in space by astronauts.',
+        source: 'https://kidsactivitiesblog.com/76701/50-random-facts/',
+    },
+    {
+        text: 'Snails take the longest naps with some lasting as long as three years.',
+        source: 'https://kidsactivitiesblog.com/76701/50-random-facts/',
+    },
+    {
+        text: 'The average person spends two weeks of their life waiting at traffic lights.',
+        source: 'https://kidsactivitiesblog.com/76701/50-random-facts/',
+    },
+    {
+        text: 'Before 1913 parents could mail their kids to Grandma’s – through the postal service.',
+        source: 'https://kidsactivitiesblog.com/76701/50-random-facts/',
+    },
+    {
+        text: 'Don’t like mosquitoes? Get a bat. They could eat 3,000 insects a night.',
+        source: 'https://kidsactivitiesblog.com/76701/50-random-facts/',
+    },
+    {
+        text: 'A typical cough is 60 mph while a sneeze is often faster than 100 mph.',
+        source: 'https://kidsactivitiesblog.com/76701/50-random-facts/',
+    },
+    {
+        text: 'Some fish cough. Really.',
+        source: 'https://kidsactivitiesblog.com/76701/50-random-facts/',
+    },
+    {
+        text: 'Are you terrified that a duck is watching you? Some people are. That is anatidaephobia.',
+        source: 'https://kidsactivitiesblog.com/76701/50-random-facts/',
+    },
+    {
+        text:
+            'American Black bears are not just black but include bears of varying colors including blonde, cinnamon, brown, white and even silver-blue.  ',
+        source: 'https://kidsactivitiesblog.com/76701/50-random-facts/',
+    },
+    {
+        text:
+            'Because of the 4 stages of the Water Cycle – Evaporation, Condensation, Precipitation and Collection – water falling as rain today may have previously fallen as rain days, weeks, months or years before.',
+        source: 'https://kidsactivitiesblog.com/76701/50-random-facts/',
+    },
+    {
+        text: 'Goats have rectangular pupils in their eyes.',
+        source: 'https://kidsactivitiesblog.com/76701/50-random-facts/',
+    },
+    {
+        text: 'There are 31,556,926 seconds in a year.',
+        source: 'https://kidsactivitiesblog.com/76701/50-random-facts/',
+    },
+    {
+        text: 'Cans of diet soda will float in water but regular soda cans will sink.',
+        source: 'https://kidsactivitiesblog.com/76701/50-random-facts/',
+    },
+    {
+        text: 'Birds can not live in space – they need gravity to be able to swallow.',
+        source: 'https://kidsactivitiesblog.com/76701/50-random-facts/',
+    },
+    {
+        text: 'Some perfumes actually have whale poo in them.',
+        source: 'https://kidsactivitiesblog.com/76701/50-random-facts/',
+    },
+    {
+        text: 'Your feet typically produce a pint of sweat every single day.',
+        source: 'https://kidsactivitiesblog.com/76701/50-random-facts/',
+    },
+    {
+        text: 'The snow on Venus is metal.',
+        source: 'https://kidsactivitiesblog.com/76701/50-random-facts/',
+    },
+    {
+        text:
+            'Baby koalas are fed poo by their parents after they are born which helps them digest Eucalyptus leaves later in life.',
+        source: 'https://kidsactivitiesblog.com/76701/50-random-facts/',
+    },
+    {
+        text:
+            'Many mammals, including cats and dogs, walk on their toes in contrast to humans, who walk on the soles of their feet.',
+        source: 'https://kidsactivitiesblog.com/76701/50-random-facts/',
+    },
+    {
+        text: '20% of all the oxygen you breathe is used by your brain.',
+        source: 'https://kidsactivitiesblog.com/76701/50-random-facts/',
+    },
+    {
+        text: 'You can cut a pie into 8 pieces with only three cuts.',
+        source: 'https://kidsactivitiesblog.com/76701/50-random-facts/',
+    },
+    {
+        text: 'If a Donkey and a Zebra have a baby, it is called a Zonkey.',
+        source: 'https://kidsactivitiesblog.com/76701/50-random-facts/',
+    },
+    {
+        text:
+            'The most difficult-to-pronounce town is in Wales: Llanfairpwllgwyngyllgogerychwyrndrobwyll llantysiliogogogoch.',
+        source: 'https://kidsactivitiesblog.com/76701/50-random-facts/',
+    },
+    {
+        text: 'A tsunami can travel as fast as a jet plane.',
+        source: 'https://kidsactivitiesblog.com/76701/50-random-facts/',
+    },
+    {
+        text:
+            'There is a 50% chance that in a group of 23 people, two will share the same birthday.  In a group of 367 people, it is a 100% chance.  But only 70 people are required for a 99.9% chance. ',
+        source: 'https://kidsactivitiesblog.com/76701/50-random-facts/',
+    },
+    {
+        text: 'All babies are born with blue eyes.',
+        source: 'https://kidsactivitiesblog.com/76701/50-random-facts/',
+    },
+    {
+        text:
+            'When you look at a bright sky and see white dots, you are looking at your blood. Those are white blood cells.',
+        source: 'https://kidsactivitiesblog.com/76701/50-random-facts/',
+    },
+    {
+        text: 'Your small intestine is the largest internal organ in your body.',
+        source: 'https://kidsactivitiesblog.com/76701/50-random-facts/',
+    },
+    {
+        text: 'Love carrots? Don’t eat too many or you will turn orange.',
+        source: 'https://kidsactivitiesblog.com/76701/50-random-facts/',
+    },
+    {
+        text: 'Cows can walk up stairs but not down them.',
+        source: 'https://kidsactivitiesblog.com/76701/50-random-facts/',
+    },
+    {
+        text: 'Tiger shark embryos begin attacking each other in their mother’s womb before they are even born.',
+        source: 'https://kidsactivitiesblog.com/76701/50-random-facts/',
+    },
+    {
+        text: 'The surface of Mars is covered in rust, making the planet appear red.',
+        source: 'https://kidsactivitiesblog.com/76701/50-random-facts/',
     },
 ];
 

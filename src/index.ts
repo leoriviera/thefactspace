@@ -2,20 +2,31 @@ import express from 'express';
 
 import facts from './facts';
 
-const getRandomFact = () => {
-    // Generate random number between 0 and facts.length - 1
-    const index = Math.floor(Math.random() * facts.length);
+// Get the total number of facts
+const factCount = facts.length;
 
-    // Get random fact
+const getFact = (index: number) => {
+    // Get fact at index
     const fact = facts[index];
+
+    // Return destructred fact with index
     return {
         index,
         ...fact,
     };
 };
 
-// Get the total number of facts
-const factCount = facts.length;
+// Get a random fact
+const getRandomFact = () => {
+    // Generate random number between 0 and facts.length - 1
+    const index = Math.floor(Math.random() * factCount);
+
+    // Get fact at index
+    const fact = getFact(index);
+
+    // Return fact
+    return fact;
+};
 
 // Create an Express app, and specify pug as the view engine
 const app = express();
@@ -55,7 +66,7 @@ app.get('/fact/:index?', (req, res) => {
         res.redirect('/random');
     } else {
         // Try to get the the fact
-        const fact = facts[indexInt];
+        const fact = getFact(indexInt);
 
         // If the fact is not undefined,
         // (and in the array's bounds)

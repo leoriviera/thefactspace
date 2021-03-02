@@ -2,6 +2,10 @@ body {
     font-family: "Shippori Mincho", "serif"
 }
 
+a {
+    text-decoration: underline;
+}
+
 .fact {
     line-height: 1.2;
 }

@@ -4635,7 +4635,8 @@ const facts = [
         source: 'https://bestlifeonline.com/random-fun-facts/',
     },
     {
-        text: "Mr. Cherry breaks all the records you've never heard of.",
+        text:
+            "Mr. Cherry breaks all the records you've never heard of, including the most jelly eaten with chopsticks in one minute, the most socks put on one foot in 30 seconds and the most tennis balls caught with a boxing glove in one minute.",
         source: 'https://bestlifeonline.com/random-fun-facts/',
     },
     {

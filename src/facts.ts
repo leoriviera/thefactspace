@@ -35,7 +35,7 @@ const facts = [
     },
     {
         text:
-            "101 Dalmatians, Peter Pan, Lady and the Tramp, and Mulan are the only Disney cartoons where both parents are present and don't die throughout the movie.  .",
+            "101 Dalmatians, Peter Pan, Lady and the Tramp, and Mulan are the only Disney cartoons where both parents are present and don't die throughout the movie. .",
         source: 'https://www.djtech.net/humor/useless_facts.htm',
     },
     {
@@ -116,7 +116,7 @@ const facts = [
     },
     {
         text:
-            'Crocodiles and alligators are surprisingly fast on land.  Although they are rapid, they are not agile.  So, if being chased by one, run in a zigzag line to lose him or her.',
+            'Crocodiles and alligators are surprisingly fast on land. Although they are rapid, they are not agile. So, if being chased by one, run in a zigzag line to lose him or her.',
         source: 'https://www.djtech.net/humor/useless_facts.htm',
     },
     {
@@ -132,7 +132,7 @@ const facts = [
         source: 'https://www.djtech.net/humor/useless_facts.htm',
     },
     {
-        text: 'In the United States, a pound of potato chips costs two hundred times more than a pound of potatoes. ',
+        text: 'In the United States, a pound of potato chips costs two hundred times more than a pound of potatoes.',
         source: 'https://www.djtech.net/humor/useless_facts.htm',
     },
     {
@@ -175,7 +175,7 @@ const facts = [
         source: 'https://www.djtech.net/humor/useless_facts.htm',
     },
     {
-        text: 'Women manage the money and pay the bills in  75% of all Americans households.',
+        text: 'Women manage the money and pay the bills in 75% of all Americans households.',
         source: 'https://www.djtech.net/humor/useless_facts.htm',
     },
     {
@@ -207,7 +207,7 @@ const facts = [
     },
     {
         text:
-            'Ants closely resemble human manners:  When they wake, they stretch & appear to yawn in a human manner before taking up the tasks of the day.',
+            'Ants closely resemble human manners: When they wake, they stretch & appear to yawn in a human manner before taking up the tasks of the day.',
         source: 'https://www.djtech.net/humor/useless_facts.htm',
     },
     {
@@ -221,7 +221,7 @@ const facts = [
     },
     {
         text:
-            "One-fourth of the world's population lives on less than $200 a year.  Ninety million people survive on less than $75 a year.",
+            "One-fourth of the world's population lives on less than $200 a year. Ninety million people survive on less than $75 a year.",
         source: 'https://www.djtech.net/humor/useless_facts.htm',
     },
     {
@@ -294,7 +294,7 @@ const facts = [
     },
     {
         text:
-            'The average lead pencil will draw a line 35 miles long or write approximately 50,000 English words.  More than 2 billion pencils are manufactured each year in the United States. If these were laid end to end they would circle the world nine times.',
+            'The average lead pencil will draw a line 35 miles long or write approximately 50,000 English words. More than 2 billion pencils are manufactured each year in the United States. If these were laid end to end they would circle the world nine times.',
         source: 'https://www.djtech.net/humor/useless_facts.htm',
     },
     {
@@ -347,7 +347,7 @@ const facts = [
     },
     {
         text:
-            "Valentine Tapley from Pike County, Missouri  grew chin whiskers attaining a length of twelve feet six inches from 1860 until his death 1910, protesting Abraham Lincoln's election to the presidency.",
+            "Valentine Tapley from Pike County, Missouri grew chin whiskers attaining a length of twelve feet six inches from 1860 until his death 1910, protesting Abraham Lincoln's election to the presidency.",
         source: 'https://www.djtech.net/humor/useless_facts.htm',
     },
     {
@@ -415,7 +415,7 @@ const facts = [
     },
     {
         text:
-            "A palindrome is a sentence or group of sentences that reads the same backwards as it does forward: Ex:  'Red rum, sir, is murder.' 'Ma is as selfless as I am.' 'Nurse, I spy gypsies. Run!'  'A man, a plan, a canal - Panama.' 'He lived as a devil, eh?'",
+            "A palindrome is a sentence or group of sentences that reads the same backwards as it does forward: Ex: 'Red rum, sir, is murder.' 'Ma is as selfless as I am.' 'Nurse, I spy gypsies. Run!' 'A man, a plan, a canal - Panama.' 'He lived as a devil, eh?'",
         source: 'https://www.djtech.net/humor/useless_facts.htm',
     },
     {
@@ -424,7 +424,7 @@ const facts = [
     },
     {
         text:
-            'In 1986 Congress & President Ronald Reagan signed Public Law 99-359, which changed Daylight Saving Time from the last Sunday in April to the first Sunday in April.  It was estimated to save the nation about 300,000 barrels of oil each year by adding most of the month April to D.S.T.',
+            'In 1986 Congress & President Ronald Reagan signed Public Law 99-359, which changed Daylight Saving Time from the last Sunday in April to the first Sunday in April. It was estimated to save the nation about 300,000 barrels of oil each year by adding most of the month April to D.S.T.',
         source: 'https://www.djtech.net/humor/useless_facts.htm',
     },
     {
@@ -458,7 +458,7 @@ const facts = [
     },
     {
         text:
-            "Since 1978, 37 people have died by Vending Machine's falling on them.  13 people are killed annually.  All this while trying to shake merchandise out of them. 113 people have been injured.",
+            "Since 1978, 37 people have died by Vending Machine's falling on them. 13 people are killed annually. All this while trying to shake merchandise out of them. 113 people have been injured.",
         source: 'https://www.djtech.net/humor/useless_facts.htm',
     },
     {
@@ -500,7 +500,7 @@ const facts = [
     },
     {
         text:
-            'Researchers at the Texas Department of Highways in Fort Worth determined the cow population of the U.S. burps some 50 million tons of valuable hydrocarbons into the atmosphere each year.  The accumulated burps of ten average cows could keep a small house adequately heated and its stove operating for a year.',
+            'Researchers at the Texas Department of Highways in Fort Worth determined the cow population of the U.S. burps some 50 million tons of valuable hydrocarbons into the atmosphere each year. The accumulated burps of ten average cows could keep a small house adequately heated and its stove operating for a year.',
         source: 'https://www.djtech.net/humor/useless_facts.htm',
     },
     {
@@ -653,7 +653,7 @@ const facts = [
         source: 'https://www.djtech.net/humor/useless_facts.htm',
     },
     {
-        text: "Dr. Kellogg introduced Kellogg's Corn Flakes in hopes that it would reduce masturbation. ",
+        text: "Dr. Kellogg introduced Kellogg's Corn Flakes in hopes that it would reduce masturbation.",
         source: 'https://www.djtech.net/humor/useless_facts.htm',
     },
     {
@@ -669,7 +669,7 @@ const facts = [
         source: 'https://www.djtech.net/humor/useless_facts.htm',
     },
     {
-        text: "Napoleon's penis was sold to an American Urologist for $40,000. ",
+        text: "Napoleon's penis was sold to an American Urologist for $40,000.",
         source: 'https://www.djtech.net/humor/useless_facts.htm',
     },
     {
@@ -767,11 +767,6 @@ const facts = [
     },
     {
         text: 'A piece of paper can be folded no more then 9 times.',
-        source: 'https://www.djtech.net/humor/useless_facts.htm',
-    },
-    {
-        text:
-            'The amount of computer Memory required to run WordPerfect for Win95 is 8 times the amount needed aboard the space shuttle.',
         source: 'https://www.djtech.net/humor/useless_facts.htm',
     },
     {
@@ -1022,7 +1017,7 @@ const facts = [
         source: 'https://www.djtech.net/humor/useless_facts.htm',
     },
     {
-        text: "Mike Nesmith's (the guitarist of The Monkeys) mom invented White Out. ",
+        text: "Mike Nesmith's (the guitarist of The Monkeys) mom invented White Out.",
         source: 'https://www.djtech.net/humor/useless_facts.htm',
     },
     {
@@ -1031,7 +1026,7 @@ const facts = [
     },
     {
         text:
-            '241.     In a test performed by Canadian scientists, using various different styles of music, it was determined that chickens lay the most eggs when pop music was played.',
+            '241.    In a test performed by Canadian scientists, using various different styles of music, it was determined that chickens lay the most eggs when pop music was played.',
         source: 'https://www.djtech.net/humor/useless_facts.htm',
     },
     {
@@ -1068,12 +1063,12 @@ const facts = [
     },
     {
         text:
-            'A signature is called a John Hancock because he signed the Declaration of Independence. Only 2 people signed the declaration of independence on July 4. The Last person signed 2 years later.',
+            'A signature is called a John Hancock because he signed the Declaration of Independence. Only 2 people signed the declaration of independence on July 4. The last person signed 2 years later.',
         source: 'https://www.djtech.net/humor/useless_facts.htm',
     },
     {
         text:
-            'Arnold Schonberg suffered from triskaidecaphobia, the fear of the number 13.  He died at 13 minutes from midnight on Friday the 13th.',
+            'Arnold Schonberg suffered from triskaidecaphobia, the fear of the number 13. He died at 13 minutes from midnight on Friday the 13th.',
         source: 'https://www.djtech.net/humor/useless_facts.htm',
     },
     {
@@ -1110,7 +1105,7 @@ const facts = [
         source: 'https://www.djtech.net/humor/useless_facts.htm',
     },
     {
-        text: 'In England, the Speaker of the House is not allowed to speak.',
+        text: 'In England, the Speaker of the House is not allowed to give speeches like other MPs.',
         source: 'https://www.djtech.net/humor/useless_facts.htm',
     },
     {
@@ -1142,7 +1137,7 @@ const facts = [
         source: 'https://www.djtech.net/humor/useless_facts.htm',
     },
     {
-        text: 'All of the clocks in the movie "Pulp Fiction" are stuck on 4:20, a national pot-smokers hour.',
+        text: 'All of the clocks in the movie "Pulp Fiction" are stuck on 4:20, an international pot-smokers hour.',
         source: 'https://www.djtech.net/humor/useless_facts.htm',
     },
     {
@@ -1163,7 +1158,7 @@ const facts = [
     },
     {
         text:
-            'There are only four words in the English language which end in "dous": tremendous, horrendous, stupendous, and  hazardous.',
+            'There are only four words in the English language which end in "dous": tremendous, horrendous, stupendous, and hazardous.',
         source: 'https://www.djtech.net/humor/useless_facts.htm',
     },
     {
@@ -1203,7 +1198,7 @@ const facts = [
     },
     {
         text:
-            'On an American one-dollar bill, there is an owl in the upper left-hand corner of the "1"encased in the "shield" and a spider hidden in the front upper right-hand corner.',
+            'On an American one-dollar bill, there is an owl in the upper left-hand corner of the "1" encased in the "shield" and a spider hidden in the front upper right-hand corner.',
         source: 'https://www.djtech.net/humor/useless_facts.htm',
     },
     {
@@ -1222,10 +1217,6 @@ const facts = [
     },
     {
         text: "John Lennon's first girlfriend was named Thelma Pickles.",
-        source: 'https://www.djtech.net/humor/useless_facts.htm',
-    },
-    {
-        text: 'There are 336 dimples on a regulation golf ball.',
         source: 'https://www.djtech.net/humor/useless_facts.htm',
     },
     {
@@ -1289,7 +1280,7 @@ const facts = [
     },
     {
         text:
-            'One of the reasons marijuana is illegal today is because cotton growers in the 1930s lobbied against hemp farmers they saw it as competition.',
+            'One of the reasons marijuana is illegal today is because cotton growers in the 1930s lobbied against hemp farmers because they saw it as competition.',
         source: 'https://www.djtech.net/humor/useless_facts.htm',
     },
     {
@@ -1321,7 +1312,7 @@ const facts = [
         source: 'https://www.djtech.net/humor/useless_facts.htm',
     },
     {
-        text: "You can't kill yourself by holding your breath. ",
+        text: "You can't kill yourself by holding your breath.",
         source: 'https://www.djtech.net/humor/useless_facts.htm',
     },
     {
@@ -1329,15 +1320,15 @@ const facts = [
         source: 'https://www.djtech.net/humor/useless_facts.htm',
     },
     {
-        text: 'The symbol on the "pound" key (#) is called an octothorpe.. ',
+        text: 'The symbol on the "pound" key (#) is called an octothorpe.',
         source: 'https://www.djtech.net/humor/useless_facts.htm',
     },
     {
-        text: "The dot over the letter 'i' is called a tittle. ",
+        text: "The dot over the letter 'i' is called a tittle.",
         source: 'https://www.djtech.net/humor/useless_facts.htm',
     },
     {
-        text: 'Ingrown toenails are hereditary. ',
+        text: 'Ingrown toenails are hereditary.',
         source: 'https://www.djtech.net/humor/useless_facts.htm',
     },
     {
@@ -1346,16 +1337,16 @@ const facts = [
     },
     {
         text:
-            'The longest word in the English language, according to the Oxford English Dictionary, is: pneumonoultramicroscopicsilicovolcanoconiosis.. ',
+            'The longest word in the English language, according to the Oxford English Dictionary, is: pneumonoultramicroscopicsilicovolcanoconiosis.',
         source: 'https://www.djtech.net/humor/useless_facts.htm',
     },
     {
         text:
-            'The longest place-name still in use is: Taumatawhakatangihangakoauauotamateaturipukakapikimaungahoronukupokaiakitnatahu, a New Zealand hill. ',
+            'The longest place-name still in use is: Taumatawhakatangihangakoauauotamateaturipukakapikimaungahoronukupokaiakitnatahu, a New Zealand hill.',
         source: 'https://www.djtech.net/humor/useless_facts.htm',
     },
     {
-        text: "An ostrich's eye is bigger than its brain. ",
+        text: "An ostrich's eye is bigger than its brain.",
         source: 'https://www.djtech.net/humor/useless_facts.htm',
     },
     {
@@ -1363,19 +1354,19 @@ const facts = [
         source: 'https://www.djtech.net/humor/useless_facts.htm',
     },
     {
-        text: 'Telly Savalas and Louis Armstrong died on their birthdays. ',
+        text: 'Telly Savalas and Louis Armstrong died on their birthdays.',
         source: 'https://www.djtech.net/humor/useless_facts.htm',
     },
     {
-        text: "Donald Duck's middle name is Fauntleroy. ",
+        text: "Donald Duck's middle name is Fauntleroy.",
         source: 'https://www.djtech.net/humor/useless_facts.htm',
     },
     {
-        text: 'The muzzle of a lion is like a fingerprint - no two lions have the same pattern of whiskers. ',
+        text: 'The muzzle of a lion is like a fingerprint - no two lions have the same pattern of whiskers.',
         source: 'https://www.djtech.net/humor/useless_facts.htm',
     },
     {
-        text: "Steely Dan got their name from a sexual device depicted in the book 'The Naked Lunch'. ",
+        text: "Steely Dan got their name from a sexual device depicted in the book 'The Naked Lunch'.",
         source: 'https://www.djtech.net/humor/useless_facts.htm',
     },
     {
@@ -1384,33 +1375,33 @@ const facts = [
     },
     {
         text:
-            'There is a seven letter word in the English language that contains ten words without rearranging any of its letters, "therein": the, there, he, in, rein, her, here, ere, therein, herein. ',
+            'There is a seven letter word in the English language that contains ten words without rearranging any of its letters, "therein": the, there, he, in, rein, her, here, ere, therein, herein.',
         source: 'https://www.djtech.net/humor/useless_facts.htm',
     },
     {
-        text: 'A goldfish has a memory span of three seconds. ',
-        source: 'https://www.djtech.net/humor/useless_facts.htm',
-    },
-    {
-        text:
-            'Cranberries are sorted for ripeness by bouncing them; a fully ripened cranberry can be dribbled like a basketball. ',
-        source: 'https://www.djtech.net/humor/useless_facts.htm',
-    },
-    {
-        text: 'The male gypsy moth can "smell" the virgin female gypsy moth from 1.8 miles away. ',
-        source: 'https://www.djtech.net/humor/useless_facts.htm',
-    },
-    {
-        text: 'The letters KGB stand for Komitet Gosudarstvennoy Bezopasnosti. ',
-        source: 'https://www.djtech.net/humor/useless_facts.htm',
-    },
-    {
-        text: 'The word "dexter" whose meaning refers to the right hand is typed with only the left hand. ',
+        text: 'A goldfish has a memory span of three seconds.',
         source: 'https://www.djtech.net/humor/useless_facts.htm',
     },
     {
         text:
-            'To "testify" was based on men in the Roman court swearing to a statement made by swearing on their testicles. ',
+            'Cranberries are sorted for ripeness by bouncing them; a fully ripened cranberry can be dribbled like a basketball.',
+        source: 'https://www.djtech.net/humor/useless_facts.htm',
+    },
+    {
+        text: 'The male gypsy moth can "smell" the virgin female gypsy moth from 1.8 miles away.',
+        source: 'https://www.djtech.net/humor/useless_facts.htm',
+    },
+    {
+        text: 'The letters KGB stand for Komitet Gosudarstvennoy Bezopasnosti.',
+        source: 'https://www.djtech.net/humor/useless_facts.htm',
+    },
+    {
+        text: 'The word "dexter" whose meaning refers to the right hand is typed with only the left hand.',
+        source: 'https://www.djtech.net/humor/useless_facts.htm',
+    },
+    {
+        text:
+            'To "testify" was based on men in the Roman court swearing to a statement made by swearing on their testicles.',
         source: 'https://www.djtech.net/humor/useless_facts.htm',
     },
     {
@@ -1424,19 +1415,19 @@ const facts = [
     },
     {
         text:
-            'The first episode of "Joanie Loves Chachi" was the highest rated American program in the history of Korean television, a country where "Chachi" translates to "penis". ',
+            'The first episode of "Joanie Loves Chachi" was the highest rated American program in the history of Korean television, a country where "Chachi" translates to "penis".',
         source: 'https://www.djtech.net/humor/useless_facts.htm',
     },
     {
-        text: 'Rubber bands last longer when refrigerated. ',
+        text: 'Rubber bands last longer when refrigerated.',
         source: 'https://www.djtech.net/humor/useless_facts.htm',
     },
     {
-        text: 'The national anthem of Greece has 158 verses. No one in Greece has memorized all 158 verses. ',
-        source: 'https://www.djtech.net/humor/useless_facts.htm',
+        text: 'The national anthem of Greece originally had 158 verses.',
+        source: 'https://checkthisstuff.wordpress.com/2013/10/08/the-national-anthem-of-greece-has-158-verses-no-one-in-greece-has-memorized-all-158-verses/',
     },
     {
-        text: "Two-thirds of the world's eggplant is grown in New Jersey. ",
+        text: "Two-thirds of the world's eggplant is grown in New Jersey.",
         source: 'https://www.djtech.net/humor/useless_facts.htm',
     },
     {
@@ -1671,7 +1662,7 @@ const facts = [
     },
     {
         text:
-            'When the French Academy was preparing its first dictionary, it defined "crab" as, "A small red fish, which walks backwards." This definition was sent with a number of others to the naturalist Cuvier for his approval.  The scientist wrote back, "Your definition, gentlemen, would be perfect, only for three exceptions. The crab is not a fish, it is not red and it does not walk backwards."',
+            'When the French Academy was preparing its first dictionary, it defined "crab" as, "A small red fish, which walks backwards." This definition was sent with a number of others to the naturalist Cuvier for his approval. The scientist wrote back, "Your definition, gentlemen, would be perfect, only for three exceptions. The crab is not a fish, it is not red and it does not walk backwards."',
         source: 'https://www.djtech.net/humor/useless_facts.htm',
     },
     {
@@ -3244,7 +3235,7 @@ const facts = [
         source: 'http://www.djtech.net/humor/shorty_useless_facts.htm',
     },
     {
-        text: 'The longest recorded flight  of a chicken is 13 seconds',
+        text: 'The longest recorded flight of a chicken is 13 seconds',
         source: 'http://www.djtech.net/humor/shorty_useless_facts.htm',
     },
     {
@@ -5665,7 +5656,7 @@ const facts = [
     },
     {
         text:
-            'Tirana, the capital of Albania has a lot of things in common with other European capitals – except one.  It’s one of two capitals without a Mcdonald’s. The second is Vatican City.',
+            'Tirana, the capital of Albania has a lot of things in common with other European capitals – except one. It’s one of two capitals without a Mcdonald’s. The second is Vatican City.',
         source: 'https://www.thefactsite.com/1000-interesting-facts/',
     },
     {
@@ -9977,12 +9968,12 @@ const facts = [
     },
     {
         text:
-            'The largest living organism in the world is a fungus.  It is in Oregon, covering 2,200 acres and is still growing.',
+            'The largest living organism in the world is a fungus. It is in Oregon, covering 2,200 acres and is still growing.',
         source: 'https://kidsactivitiesblog.com/76701/50-random-facts/',
     },
     {
         text:
-            'A horse’s canter is a 3-beat gait.  On the second beat, opposite front and rear legs hit the ground at the same time.  After the third beat is a “rest”, or suspension, when all three legs are off the ground.',
+            'A horse’s canter is a 3-beat gait. On the second beat, opposite front and rear legs hit the ground at the same time. After the third beat is a “rest”, or suspension, when all three legs are off the ground.',
         source: 'https://kidsactivitiesblog.com/76701/50-random-facts/',
     },
     {
@@ -10059,7 +10050,7 @@ const facts = [
     },
     {
         text:
-            'American Black bears are not just black but include bears of varying colors including blonde, cinnamon, brown, white and even silver-blue.  ',
+            'American Black bears are not just black but include bears of varying colors including blonde, cinnamon, brown, white and even silver-blue.',
         source: 'https://kidsactivitiesblog.com/76701/50-random-facts/',
     },
     {

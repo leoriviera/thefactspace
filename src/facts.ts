@@ -5431,6 +5431,4528 @@ const facts = [
         text: 'Kansas state law requires pedestrians crossing the highways at night to wear tail lights.',
         source: 'https://www.cs.cmu.edu/~bingbin/',
     },
+    {
+        text: 'The scientific term for brain freeze is “sphenopalatine ganglioneuralgia”.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Canadians say “sorry” so much that a law was passed in 2009 declaring that an apology can’t be used as evidence of admission to guilt.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Back when dinosaurs existed, there used to be volcanoes that were erupting on the moon.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'The only letter that doesn’t appear on the periodic table is J.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'One habit of intelligent humans is being easily annoyed by people around them, but saying nothing in order to avoid a meaningless argument.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'If a Polar Bear and a Grizzly Bear mate, their offspring is called a “Pizzy Bear”.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'In 2006, a Coca-Cola employee offered to sell Coca-Cola secrets to Pepsi. Pepsi responded by notifying Coca-Cola.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'There were two AI chatbots created by Facebook to talk to each other, but they were shut down after they started communicating in a language they made for themselves.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Nintendo trademarked the phrase “It’s on like Donkey Kong” in 2010.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Daniel Radcliffe was allergic to his Harry Potter glasses.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'The famous line in Titanic from Leonardo DiCaprio, “I’m king of the world!” was improvised.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'A single strand of Spaghetti is called a “Spaghetto”.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Hershey’s Kisses are named that after the kissing sound the deposited chocolate makes as it falls from the machine on the conveyor belt.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Princess Peach didn’t move until 1988, designers believed it was too complicated to make her a movable character.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'To leave a party without telling anyone is called in English, a “French Exit”. In French, it’s called a “partir à l’anglaise”, to leave like the English.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'If you cut down a cactus in Arizona, you’ll be penalized up to 25 years in jail. It is similar to cutting down a protected tree species.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'The Buddha commonly depicted in statues and pictures is a different person entirely. The real Buddha was actually incredibly skinny because of self-deprivation.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'In Colorado, USA, there is still an active volcano. It last erupted about the same time as the pyramids were being built in Egypt.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'The first movie ever to put out a motion-picture soundtrack was Snow White and the Seven Dwarves.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'If you point your car keys to your head, it increases the remote’s signal range.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Fruit stickers are edible, though the same as any fruit, washing prior to eating is recommended. The glue used for them is regulated by the FDA.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'The scientific name for Giant Anteater is Myrmecophaga Tridactyla. This means “ant eating with three fingers”.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Astronaut is a compound word derived from the two Ancient Greek words “Astro” meaning “star” and “naut” meaning “sailor”. So astronaut literally means “star sailor”.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'The flashes of colored light you see when you rub your eyes are called “phosphenes”.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'At birth, a baby panda is smaller than a mouse.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Iceland does not have a railway system.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'The largest known prime number has 17,425,170 digits. The new prime number is 2 multiplied by itself 57,885,161 times, minus 1.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Forrest Fenn, an art dealer and author, hid a treasure chest in the Rocky Mountains worth over 1 million dollars. It still has not been found.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'The lead singer of The Offspring started attending school to achieve a doctorate in molecular biology while still in the band. He graduated in May 2017.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'The world’s largest grand piano was built by a 15-year-old in New Zealand.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'The tongue is the only muscle in one’s body that is attached from one end.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'There is a company in Japan that has schools that teach you how to be funny. The first one opened in 1982. About 1,000 students take the course each year.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'The Lego Group is the world’s most powerful brand. There are more Lego Minifigures than there are people on Earth.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'The Bagheera kiplingi spider was discovered in the 1800s and is the only species of spider that has been classified as vegetarian.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'There is a boss in Metal Gear Solid 3 that can be defeated by not playing the game for a week; or by changing the date.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'The Roman – Persian wars are the longest in history, lasting over 680 years. They began in 54 BC and ended in 628 AD.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Elvis was originally blonde. He started coloring his hair black for an edgier look. Sometimes, he would touch it up himself using shoe polish.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'If you translate “Jesus” from Hebrew to English, the correct translation is “Joshua”. The name “Jesus” comes from translating the name from Hebrew, to Greek, to Latin, to English.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Ed Sheeran bought a ticket to LA with no contacts. He was spotted by Jamie Foxx, who offered him the use of his recording studio and a bed in his Hollywood home for six weeks.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'German Chocolate Cake is named after an American baker by the name of Samuel German.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'The first service animals were established in Germany during World War I. References to service animals date as far back as the mid-16th Century.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'An 11-year-old girl proposed the name for Pluto after the Roman god of the Underworld.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'The voice actor of SpongeBob and the voice actor of Karen, Plankton’s computer wife, have been married since 1995.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'An Italian banker, Gilberto Baschiera is considered a modern-day Robin Hood. Over the course of 7 years, he secretly diverted 1 million euros to poorer clients from the wealthy ones so they could qualify for loans. He made no profit and avoided jail in 2018 due to a plea bargain.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Octopuses and squids have beaks. The beak is made of keratin – the same material that a bird’s beak, and our fingernails are made of.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'An estimated 50% of all gold ever mined on Earth came from a single plateau in South Africa: Witwatersrand.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: '75% of the world’s diet is produced from just 12 plant and five different animal species.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'The original Star Wars premiered on just 32 screens across the U.S. in 1977. This was to produce buzz as the release widened to more theaters.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'The British government coined the slogan, “Keep Calm and Carry on” during World War 2 in order to motivate citizens to stay strong.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Apple paid a couple $1.7 million dollars for their plot of land, which was only worth $181,700.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Tirana, the capital of Albania has a lot of things in common with other European capitals – except one.  It’s one of two capitals without a Mcdonald’s. The second is Vatican City.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Sour Patch Kids are from the same manufacturer as Swedish Fish. The red Sour Patch Kids are the same candy as Swedish Fish, but with sour sugar.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'The largest Japanese population outside of Japan stands at 1.6 million people who live in Brazil.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'IKEA is an acronym which stands for Ingvar Kamprad Elmtaryd Agunnaryd, which is the founder’s name, farm where he grew up, and hometown.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'In 2009, Stephen Hawking held a reception for time travelers, but didn’t publicize it until after. This way, only those who could time travel would be able to attend. Nobody else attended.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Violin bows are commonly made from horse hair.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'There are less than 30 ships in the Royal Canadian Navy which are less than most third-world countries.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Larry the Cable Guy’s real name is Daniel Lawrence Whitney. His notable Southern accent is fake – he was born and raised in the midwest, not the South.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'The youngest Pope in history was Pope Benedict IX who was 11 years old at the time of the election. He is also the only person to have been the Pope more than once.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'There were only 9 developers on the team for GoldenEye 007 for Nintendo 64.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Costa Coffee employs Gennaro Pelliccia as a coffee taster, who has had his tongue insured for £10 million since 2009.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Johnny Cash took only three voice lessons before his teacher advised him to stop taking lessons and to never deviate from his natural voice.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'There is an island called “Just Enough Room”, where there’s just enough room for a tree and a house.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'People who post their fitness routine on Facebook are more likely to have psychological problems.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Medieval chastity belts are a myth. A great majority of examples now existing were made in the 18th and 19th centuries as jokes.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Nowadays, millionaires with just $1 million aren’t considered wealthy anymore by most Americans. Now, the typical American sees at least $2.4 million as wealthy.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Hanna-Barbera pitched The Flintstones to networks for 8 weeks before it was finally picked up. It became the first-ever animated show to air during primetime.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'There is a company that sells mirrors that make people look 10 pounds thinner. Overall, the mirrors have contributed to 54% of total sales for retailers that use it.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'There’s no period in “Dr. Pepper”. It was removed because the old logo font made it look like “Di: Pepper”.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'There is an underwater version of rugby, unsurprisingly called “underwater rugby”.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Standing around burns calories. On average, a 150-pound person burns 114 calories per hour while standing and doing nothing.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Although GPS is free for the world to use, it costs $2 million per day to operate. The money comes from American tax revenue.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'In World War II, Germany tried to collapse the British economy by dropping millions of counterfeit bills over London.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'The human eye is so sensitive that, if the Earth were flat and it was a dark night, a candle’s flame could be seen from 30 miles away.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'When Space Invaders was created, Tomohiro Nishikado left in the lag caused by more invaders on the screen in order to create greater difficulty in the games.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'The color red doesn’t really make bulls angry; they are color-blind.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: '65% of autistic kids are left-handed, and only 10% of people, in general, are left-handed.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'In 2007, Scotland spent £125,000 devising a new national slogan. The winning entry was: “Welcome to Scotland”.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Until 2016, the “Happy Birthday” song was not for public use. Meaning, prior to 2016, the song was copyrighted and you had to pay a license to use it.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'When mice live in the wild, they typically only live for about six months.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'There is a punctuation mark used to signify irony or sarcasm that looks like a backwards question mark ⸮',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Lettuce is a member of the sunflower family.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Researches have found that flossing your teeth can help your memory. Flossing prevents gum disease, which prevents stiff blood vessels, which cause memory issues.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'A cluster of bananas is called a “hand”. Along that theme, a single banana is called a “finger”.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'The Hobbit has been published in two editions. In the first edition, Gollum willingly bet on his ring in the riddle game.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'For nearly 60 years, Texas didn’t have an official state flag between 1879 & 1933. During that time, the Lone Star flag was the active, but the unofficial flag.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'A wildlife technician, Richard Thomas, took the famous tongue twister, “how much wood would a woodchuck chuck if a woodchuck could chuck wood” and calculated a rough estimate of what the answer would actually be. It came out to be around 700 pounds.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Red Solo cups are a common souvenir to bring back from the United States. The novelty comes from the cups being used in many party scenes in movies.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Swedish meatballs originated from a recipe King Charles XII brought back from Turkey in the early 1800s.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Saint Lucia is the only country in the world named after a woman.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Those cute furry bits inside a cat’s ear are called “ear furnishings”. They ensure that dirt doesn’t go inside and also helps them to hear well.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Scientists discovered sharks that are living in an active underwater volcano. Divers cannot investigate because they would get burns from the acidity and heat.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'There are times when Pluto is closer to the Sun than Neptune – one of these timelines was from 1979 to 1999.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'There is a town in Nebraska called Monowi with a population of one. The only resident is a woman who is the Mayor, Bartender, and Librarian.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'The Ethiopian calendar is 7.5 years behind the Gregorian calendar due to the fact that it has 13 months.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'In 1994, the company that had a patent on GIFs tried to charge a fee for using GIFS. The PNG was invented as an alternative, and the company backed down.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'China is spending $3 billion dollars to build panda-shaped solar farms in order to get more young people interested in renewable energy.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Mercury and Venus are the only two planets in our solar system that do not have any moons.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'The average American child is given $3.70 per tooth that falls out.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+
+    {
+        text:
+            'The world’s first motel is in San Luis Obispo, which was built in 1925. When opened, it cost $1.25 for a two-room bungalow with a kitchen and a private adjoining garage.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Scotland was one of the few countries able to hold off being conquered by the Romans in the first century A.D.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'I Will Always Love You was originally written and recorded in 1973 by Dolly Parton. It was written as a farewell to her mentor of seven years.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            '“Opposites attract” is a common myth. People are actually attracted to people who look like family members or those with a similar personality type.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Llamas can be used as guards against coyote attacks on sheep herds. Studies have proven that just one guard llama is an effective protector and can even kill the attacking coyotes.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'The unique smell of rain actually comes from plant oils, bacteria, and ozone.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Vanilla flavoring is sometimes made with the urine of beavers.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'If you heat up a magnet, it will lose its magnetism.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'The most expensive virtual object is “Club NEVERDIE” in the Entropia Universe which is worth $635,000. It was originally bought at $10,000.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Cruise ships have morgues that can store up to 10 bodies at once. The average amount of people that die on cruise ships per year is 200.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Birds are the closest living relatives of crocodilians, as well as the descendants of extinct dinosaurs with feathers. This makes them the only surviving dinosaurs.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Small as they may be, ladybugs have a unique smell that humans are incredibly sensitive to.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'During WWII, a U.S. naval destroyer won a battle against a Japanese submarine by throwing potatoes at them. The Japanese thought they were grenades.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'The Marshal Mathers foundation for at-risk and disadvantaged youth was founded by Eminem.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'A man with severe OCD and a phobia of germs attempted to commit suicide with a gun to his head. Instead of killing him, the bullet eliminated his mental illness without any other damage.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Since 1955, 50% of the population of Niger is consistently under 16 years old. The total current population is 21,600,000.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'The author of Mary Had a Little Lamb, Sarah Josepha Hale, is most responsible for the creation of Thanksgiving being a national holiday.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'The oldest unopened bottle of wine was found in a Roman tomb that is over 1,650 years old.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Chicken Run is the highest-grossing stop motion animated film, even beating The Nightmare Before Christmas.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Nobody knows how the Academy Awards came to be referred to as the Oscars. The earliest mention was 1932, and was made official in 1939.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'More tornadoes occur in the United Kingdom per square mile than any other country in the world.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Owners of personalized license plates in Uganda are facing a tax increase of over 300%, which will raise the tax from $1,498 to $5,992.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Popularized by the Shakespeare play, many people think Julius Caesar’s last words were “And you, Brutus?” In reality, he said “You too, my child?”',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Times Square was originally called Longacre Square until it was renamed in 1904 after The New York Times moved its headquarters to the newly built Times Building.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Daniel Craig was an anonymous Storm Trooper in Star Wars: The Force Awakens. Originally, he denied his cameo and claimed he wouldn’t bother being an extra in a movie.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Queen Elizabeth has a personal net worth of 425 million dollars. That includes the $65 million Sandringham House and $140 million Balmoral Castle.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Although there is currently no drug proven to make someone tell the truth, some countries like Russia, Canada, and India use truth serums.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Only primates, humans, and opossums have opposable thumbs. Out of these, the opossum is the only one with no thumbnail.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'One of the World Trade Center’s was built to be 1,776 feet tall on purpose to reference the year the Declaration of Independence was signed.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'The word “kimono”, literally means a “thing to wear”. Ki is “wear”, and mono is “thing”.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'There is a statue of Tesla in Silicon Valley that radiates free Wi-Fi. It was done as an homage to his vision for wireless communication.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'It snows metal on planet Venus! There are two types that have been found, galena and bismuthinite.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Tic Tacs got their name from the sound they make when they are tossed around in their container.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Only official members of federally accepted Native American tribes may legally possess or collect eagle feathers. If a normal citizen has one, it is illegal.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'By the time they have been retired for 2 years, 78% of former NFL players have gone bankrupt or are under financial stress because of joblessness or divorce.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            '500 seeds of 5 different types of seeds were taken into orbit around the moon and later planted around the U.S. as well as a few countries. They were called Moon Trees.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'In order to protest the high tariffs enforced by a U.K. censorship board, a filmmaker sent in a 10-hour “movie” of white paint drying. They had to watch the entire film.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'The popular LMFAO group who created the viral hit, Party Rock Anthem, is made up of an uncle-nephew duo.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            '50% of apartments in Los Angeles don’t come with a fridge. This is legal, as fridges are considered an “amenity”, and therefore landlords are not required to provide one.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Norway has a 25-year statute of limitation on murder. This means if the murder happened more than 25 years ago, they cannot be charged.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Several of the facts on Snapple caps have been found to be outdated, incorrect or exaggerated.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Both of the drummers from Queen and Duran Duran had the same name – Roger Taylor.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'There is a company in the U.K. that offers “being hungover” as a valid reason for calling off work. They are allotted four hungover days per year.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'The majority of blind people in the U.S. and the U.K. cannot read braille. Statistically, less than 1% of blind in the U.K., and under 10% in the U.S.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'It’s not just humans who are right or left-handed. Most female cats prefer using their right paw and males are more likely to be left-pawed.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Over 290 people have died climbing Mount Everest since 1922. Most deaths occur because of avalanches, and not all bodies have been recovered.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'There are only two countries in the world that have the color purple in their flags: Nicaragua and Dominica.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'A bolt of lightning can reach 53,540 degrees Fahrenheit. That’s 5 times hotter than the surface of the sun, which is 10,340 degrees Fahrenheit.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'There is a village in Russia called Tsovkra where every resident can tightrope walk. It is a tradition that dates back over 100 years but no one knows how it started.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'When Shakira was in second grade, she was rejected by the school choir because her vibrato was too strong. The music teacher told her that she sounded like a goat.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Four of the top seven highest-grossing films of all time were released in 2015. Avengers: Age of Ultron, Furious 7, Jurassic World, and Star Wars: The Force Awakens.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Four Nile crocodiles have been found in Florida. They are the second-largest crocodile and are more dangerous than the native crocodiles and alligators in Florida.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Julius Caesar’s only son, Caesarion, was the last Pharaoh of Egypt. Even though Cleopatra swears he is Caesar’s son, Caesar never officially acknowledged him.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'The quietest room in the world in Minnesota is measured in negative decibels – so quiet that you can hear your own heartbeat and your bones moving.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            '“Tsundoku” is a Japanese word for the habit of buying too many books, letting them pile up in your house, and never reading them.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'The Guinness World Record for the time longest spend searching for the Loch Ness Monster is held by Steve Feltham who camped at Loch Ness for 25 years.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Brain fibers lose 10% of their total length every decade. They can shrink even more so under acute stress.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Chewing gum boosts mental proficiency and is considered a better test aid than caffeine – but nobody knows why.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Per capita, the happiest countries in the world also rank highest in terms of consumers of antidepressants.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Even though Irish is the official language of Ireland, Polish is more widely spoken.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'There’s a bar in Yukon that serves a “Sourtoe cocktail”. It consists of a shot of whisky with a human toe floating in the glass. An estimated 60,000 people have had it.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'The Stockholm archipelago has more islands than the Pacific Ocean at around 30,000.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Pope Francis has been given many extravagant gifts over the years, and one of them was a Harley-Davidson motorcycle. However, rather than keeping it for his own pleasure and adventures, he sold it off and used the money to benefit homeless people.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'In Japan, Domino’s started testing pizza delivery via reindeer in 2016.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'The motto on the United Kingdom’s Royal Coat of Arms is in French. The motto is “Dieu et mon droit”, which means “God and my right”.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'The average household income of the top 1% in the United States is $1,260,508 per year.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Disney sold the streaming right for the original Star Wars films in 2016 to Turner until 2024. Disney has since decided to start a streaming service and has tried asking for the rights back, but Turner refuses every time.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Gaming-related accidents increased by 26.5% during the first 5 months of Pokémon Go being released. This included 2 deaths and $25.5 million in damages.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Helen Keller was related to Robert E. Lee. Her paternal grandmother was second cousins with him.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'During the 1908 Olympics in London, the Russians showed up 12 days late due to the fact that they were using the Julian calendar instead of the Gregorian calendar.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Non-violent attempts to escape Mexican prisons are not punished because “it’s human nature to want freedom”.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'The line, “Born and raised in South Detroit” in Journey’s “Don’t Stop Believin” actually refers to Canada, not Michigan.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'On one slow news day on April 18, 1930, a BBC radio announcer blatantly said “there is no news”.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'If you cut a starfish, it won’t bleed – it doesn’t have blood! Rather, they circulate nutrients by using seawater in their vascular system.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            '12% of the world’s total languages are found in Papua New Guinea, which has over 820 indigenous languages. There are more languages on this island than in any other country.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'The hottest temperature ever recorded in Washington state was at Ice Harbor Dam at 118 °F (47.8 °C) on August 5, 1961.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'In efforts to undercut the Dreamcast’s sales of the upcoming SEGA release, Sony announced the PlayStation 2 and exaggerated its performance capabilities.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Nepal has the most mathematical flag in the world. It even has an article in its constitution that details the steps of drawing the flag.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Mount Rushmore cost less than one million dollars to construct. It took 14 years to build – from 1927 to 1941 and took 400 workers.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Samsung means “three stars” in Korean. This was chosen by the founder because he wanted the company to be powerful and everlasting like stars in the sky.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'On average, 46.1% of Americans have less than $10,000 in assets when they die.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'While shedding, geckos will eat their skin in order to prevent predators from finding and eating them more easily.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Bees actually have knees. The expression comes from the fact that they store large build-ups of pollen in hairy baskets on their knees.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Between North and South Korea lies 155 miles of no man’s land where hundreds of rare animal species thrive.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'While watching a Merry-Go-Round from a bench in Griffith Park, Los Angeles, Walt Disney was struck with inspiration for the creation of Disneyland.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'There is a Scottish tartan designed for Mars exploration. It was officially registered in 2016 to be worn during Mars science, exploration and outreach activities.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Santa Claus was issued a pilot’s license from the U.S. government in 1927. They also gave him airway maps and promised to keep the runway lights on.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'When you exercise, the burned fat metabolizes to become carbon dioxide, water, and energy. Meaning: you exhale the fat that you lose.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'The word “velociraptor” comes from the Latin words “velox” which means swift, and “raptor” which means robber. Literally – speedy robber!',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'The largest stadium in the world is the Rungrado 1st of May Stadium in North Korea. It can hold up to 114,000 spectators. It covers 51 acres and is 197 feet tall.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Polar bears often hunt walruses by simply charging at a group of them and eating the ones that were crushed or wounded in the mass panic to escape. Direct attacks are rare.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'The group of spikes at the end of stegosaurid tails are called the “thagomizer”. They had no distinct name until the term was coined in 1982 by a cartoonist.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'There is a correlation between pulling an all-nighter and snapping out of depression. This is because the brain gets more active the longer it goes without sleep.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Adult cats only meow at humans, not other cats. Kittens meow to their mother but once they get a little older, cats no longer meow to other cats.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'When shuffling a deck of cards, the number of possible arrangements is approximately 8×1067. That’s more than the number of stars in the observable universe.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'There is a United Arab Emirates’ territory inside an Oman’s territory that itself is inside the United Arab Emirates country. It is called Madha village.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Disappointment Island is an uninhabited island in New Zealand. Over 65,000 pairs of white-capped albatross live there. In 1868, a steel tanker crashed on the island which killed 68 people, leaving the 15 survivors waiting 18 months to be rescued. In 1907, another ship ended up crashing there and 12 men drowned.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'During the entire run of Gilligan’s Island, it was never revealed if “Gilligan” was his first or last name.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Videogames have been found to be more effective at battling depression than therapy.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+
+    {
+        text: 'Bi-weekly has two different definitions: Twice a week, or once every two weeks.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Mona Lisa was stolen from the Louvre in 1911, which drew more visitors to see the empty space than the actual painting.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'There is an insurance policy issued against alien abduction. Around 50,000 policies have been sold, mainly to residents of the U.S. and England.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Volvo invented the three-point seatbelt, then gave the invention away for free. They decided it was too important of an invention to keep to themselves.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'In 2005, Connecticut was accidentally issued an Emergency Alert to evacuate the entire state. Only about 1% of the people actually tried to leave.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'An 18-year old with dwarfism played the 8-year-old Grinch in The Grinch (2000). He passed away two years after the film was released.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Rebecca Felton was the first woman to ever serve for the United States Senate, but she only served for one day.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Webster’s Dictionary accidentally had a word that didn’t exist in it for five years – “Dord”.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Amber-colored rear turn signals are statistically proven to reduce collisions by about 28%.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Roselle, a guide dog, lead her blind owner down 78 flights of stairs during 9/11. The descent took about an hour and they both safely made it out.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'It is thought by Russians that eating ice cream will keep you warm.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Somebody hid an episode of South Park inside Tiger Woods 99 as an Easter egg, causing EA to do a massive recall.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Madagascar once was a stomping ground for lemurs which were the size of today’s gorillas.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Underneath the streets of Beijing, there are over a million people who live in nuclear bunkers.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'The full name of the famous Chuck E. Cheese’s mouse is Charles Entertainment Cheese.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'The American roulette wheel is different from the European wheel. The American one has 2 green spaces while the European one only has 1. Although on both, if you add up all the numbers on a roulette wheel, you will get 666.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'The day after Thanksgiving is called “Brown Friday” by plumbers in America because it is their busiest day of the year.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'The wife of Anthony Perkins, the original Norman Bates, Berry Berenson died as a result of being a passenger on one of the 9/11 planes.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'The thumbs-up sign is believed to have originated from Chinese pilots. It was used to communicate with the ground crew before take-off.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'In Toy Story 2 in the scene where Buzz gives a speech in front of the American flag, the flag was edited to be a globe for release in non-American countries.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'The tallest mountain in our solar system, Olympic Mons, is 3 times taller than Mount Everest.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Batman and Predator exist in the same fictional universe. Since 1991, they have been featured together in three comic books.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'A study from Harvard University finds that having no friends can be just as deadly as smoking. Both effect levels of a blood-clotting protein.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'In South Dakota, you can get a driver’s permit at age 14 with parental consent. Once you turn 16, you can get your license.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'The Backpack Kid’s real name is Russell Horning.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'In 2017, Adidas sold over 1 million pairs of shoes made from recycled ocean plastic, each pair taking 11 plastic bottles to make.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'The British Pound is the world’s oldest currency still in use at 1,200 years old. The pound has been an identity as a symbol of British sovereignty.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'The world’s smallest mammal, a Bumblebee Bat, weighs about the same as a U.S. dime. Native to Myanmar and Thailand, these bats are endangered.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'As of December 2018, The Itchy & Scratchy Show that takes place within The Simpsons has 107 episodes.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Will Smith owed $2.8 Million to the IRS and almost went bankrupt, just before he signed the contract for The Fresh Prince Of Bel-Air.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'The Great Pyramid of Giza actually has eight sides, rather than four. All of the other pyramids have just four sides.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'English is not native to the British Isles. It was brought to Britain in the mid 5th to 7th Centuries by German, Danish, and Dutch settlers.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'When we’re born, the only innate fears we have are the fear of falling, and the fear of loud sounds. All other fears are learned.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'In Korea, there is a breed of dog called a Sapsali which was originally thought to banish ghosts and evil spirits.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Qantas Airways once powered an interstate flight on cooking oil. This marked Australia’s first commercial flight using sustainably derived biofuel.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Berries are simple fruits stemming from one flower. This means that pineapples, bananas, watermelon, pumpkins, and avocados are berries.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'One horse can have approximately 15 horsepower. Horsepower is about 746 watts. The term was coined in the late 18th Century.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'The Leaning Tower of Piza is tilted because of the soft soil that it’s built on – which has also protected it from at least 4 powerful earthquakes.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'All the paint on the Eiffel Tower weighs the same as ten elephants. It gets repainted every seven years without closing to the public.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'All new FBI special agents and intelligence analysts are required to visit the United States Holocaust Memorial Museum.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'While dinosaurs roamed the earth, they lived on every continent including Antarctica.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'The blue whale’s heart is the size of a VW Beetle and weighs up to 1,000 lbs (453 kg).',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'One of the most widely used symbols for medical assistance is actually the Swiss flag and not a medical symbol.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Until 2007, slavery was legal in Mauritania. Even still, 1-4% of the population is still living as slaves.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'A man named Ronald MacDonald robbed a Wendy’s in 2005.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'The longest unbroken alliance in world history is between England and Portugal. It has lasted since 1386, and still stands today.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Before finally being accepted, J.K. Rowling’s original Harry Potter pitch was rejected by 12 publishers.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'The Japanese term for a Shotgun Wedding is “Dekichatta kekkon”, which literally translates to “oops-we-did-it-marriage”.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Garlic is known to attract leeches.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'In 1992, a shipping crate containing 28,000 rubber duckies fell overboard. They washed up around the world for the next 20 years.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'After the release of the 1996 film Scream, which involved an anonymous killer calling and murdering his victims, Caller ID usage tripled in the United States.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Aeroflot Flight 593 crashed because the pilot let his kids fly the plane, who unknowingly disengaged the autopilot function. The crash killed everyone on board.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'It takes Uranus 84 years to orbit the Sun once.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'A 26 sided shape is known as a rhombicuboctahedron.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Mob boss Vincent Gigante used to wander around New York in his bathrobe to convince the police he was insane and avoid capture.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'The military has used silly string to detect tripwires in Iraq. Before entering a room, they can squirt it inside. If it hangs in the air, it may have revealed a wire.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'By applying even pressure on an egg, it is nearly impossible to break the shell by squeezing it.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'So far, two diseases have successfully been eradicated: smallpox and rinderpest. The last case of smallpox was in 1977, and the last of rinderpest was in 2001.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'A recently discovered deep-sea snail, the Scaly-Foot Gastropod, has a shell that is impressively developed. So much so, that the U.S. military is trying to use its design to inspire defensive layers in military armor.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'There are over 6,000 known species of grass.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'The total weight of all air on Earth is 11 quintillion pounds.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            '“Time anxiety” occurs in a person when they are perpetually afraid of being late, or of others being late.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Ant queens can live for up to 30 years.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'In 2014, Princeton researchers determined that Facebook would lose 80% of its users by 2017.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Orlando Bloom has swinophobia, which is a fear of pigs!',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Eight of the ten largest statues in the world are of Buddha’s.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Meghan Trainor has Nyctophobia, which is a huge fear of the dark.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Garrett McNamara holds the record for the largest wave ever surfed, set in 2011 in Nazare, Portugal. The wave was 78 feet tall.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'The logo on the Red Bull cans are not cattle, but a type of bovine called a “gaur”.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'In Bruges, Belgium, there an underground pipeline that runs 2 miles to transfer beer from a brewery to the bottling plant.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'The collective group of lemurs is called a conspiracy.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'The first Primark store opened in Dublin in June 1969 under the name Penney’s.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Ron Swanson’s character on Parks and Recreation is based on a real person – a woman who works in a high bureaucratic position who is also anti-government.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Captive tigers in the U.S. alone outnumber the amount of wild tigers worldwide.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'The 1831 London Bridge was sold in 1962 when it needed to be replaced. It was bought by Lake Havasu City, Arizona, to help tourism.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Scrappy-Doo, widely considered to be one of the most hated characters in fiction, has not appeared in an animated Scooby-Doo production since 1988 due to audience backlash.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'The first X-rated animated movie was Fritz the Cat. It is still the most successful independent animated feature to date.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Roughly 33% of cats are not affected by catnip. The euphoric reaction commonly associated with catnip is hereditary.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Facebook will track and record nearly everything you do if you browse the web while logged in to your Facebook account.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Bubble wrap was originally invented to be wallpaper. The creators tried to make plastic wallpaper with a paper backing, but it came out with plastic backing.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'The longest Cricket Test match lasted over 12 days between England and South Africa. It only ended because the English team would have missed their boat home.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'MIT, often cited as one of the world’s most prestigious universities, puts almost all of its course materials online for anyone to access for free.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Albert Einstein had mastered calculus by the tender age of 15.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Madagascar got its name when Marco Polo misspelled it. The name stuck and the island was christened to the name in 1500.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Tom Hanks had an asteroid named after him which was called “12818 tomhanks“.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'The number of stars on the EU flag doesn’t represent anything. 12 stars were chosen as a number with no political association and as a symbol of unity.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'High heels are nothing new to the world. In the 18th Century, they were fashionable even for children.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Elephants think people are cute, the same way people think puppies or kittens are cute.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Cats which have blue eyes for the duration of their lives are likely to be deaf.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'The manager of Guinness started the Guinness Book of World Records when he got annoyed that he couldn’t find out what the fastest game bird was ever recorded.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Barry Manilow wrote many famous jingles for companies like McDonald’s, State Farm, and BandAids.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'One of the smartest bird species is the magpie. They can even recognize themselves in mirrors.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'In order to keep Nazis away, a Polish doctor faked a typhus outbreak. This strategy saved 8,000 people.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'The atomic number of zinc is 30.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'The tall chef’s hat is called a toque.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'There’s very little evidence the TSA has ever stopped a terrorist or found a real bomb. When tested, they failed to find fake weapons and bombs 95% of the time.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'In the United States, each person owns an average of seven pairs of blue jeans. That’s one for every day of the week!',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Whenever Charles Dickens was away from home, he would always realign the bed he was sleeping in to face Northwards, as he felt that this fostered and unlocked his creativity.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'The Shawn Mendes EP reached Number 1 on iTunes in 37 minutes.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Since 1990 the United States has added more acres of forest than it has lost, with almost 20 million new acres of forest land added in the last 2 decades.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'There is a liquid that you can breathe in called perfluorohexane. Animals can be submerged in a bath of perfluorohexane without drowning.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Feeding curry to a sheep reduces the amount of methane in its farts by up to 40%.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'During a conversation each speaker’s “turn” averages 2 seconds, and the pause in between only 200 milliseconds. That figure is nearly universal.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Cold showers have more health benefits than hot or warm showers. These include improving circulation, stimulating weight loss, and easing depression.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Despite being landlocked, Mongolia has a navy consisting of seven men and one vessel, the “Sukhbaatar III“, stationed on Lake Khövsgöl.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'During the Second World War, German tank drivers would drive their vehicles over camel droppings, thinking it would bring them good luck.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'In Alabama, it is illegal to participate in shooting, hunting, gaming, card playing, or racing on Sundays. The fine ranges from $10 to $100.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Originally, bumper cars were not supposed to hit each other. Drivers were actually supposed to avoid crashing in spite of chaotic driving. The first company to patent a bumper car was in 1920 named Dodgem.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'A woman was elected to the House of Representatives four years before women even won the right to vote.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'In the Netherlands version of Sesame Street, instead of Big Bird, they have a bluebird named Pino. He was later established as Big Bird’s cousin.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'The full Bible has been translated into over 3,000 languages. Among those include fictional languages like Elvish, Klingon, and Na’vi.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'The voice of Stargazer in Mass Effect 3 was done by Buzz Aldrin.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'The first 4th of July celebration was in 1777.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Justin Bieber’s first tweet was at 8:27 pm on May 11, 2009.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Snakes and lizards both molt out of their old skin as they grow. Investigators have come to the conclusion that dinosaurs may have also molted.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Zebras have only one toe on each foot.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Humans have been performing dentistry since 7000BC, which makes dentists one of the oldest professions.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Originally, the Pokémon Vulpix was going to be called “FoxFire”.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'The first-ever documented feature film was made in Australia in 1906.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Ancient Roman surgeons were trained to block out the screams of human pain.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'William Hung, made famous for his appearance on American Idol singing “She Bangs“, is a 73rd generation descendant of Confucius.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'From 1937 to 1953, NBC’s Today Show had a chimpanzee co-host named J. Fred Muggs. It is estimated he brought in the network around $100 million.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Because snow is composed of ice, it can be classified as a mineral. Water, however, does not fall under the same classification and is not a mineral.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Of the 9,000 Blockbuster stores that existed in the early 1990s, at least 10 Blockbusters are open across the U.S. Seven of those are in Alaska.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'There is a geocache on the International Space Station placed in 2008. It has since been visited four times by other astronauts.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'The Vatican had music that was forbidden to be copied and was only played twice per year. It was secret for almost 150 years until a 14-year-old Mozart heard it and transcribed it from memory.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Canada eats more macaroni and cheese than any other nation in the world.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Octopuses only touch in situations of mating or aggression. Female octopuses sometimes do both, strangling and eating the male after mating.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Scotland wanted to replicate the Parthenon bigger and cheaper in 1826. It was never completed and is now nicknamed “Scotland’s Disgrace”.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'A French general gave John Quincy Adams a pet alligator. Adams kept it in one of the White House bathtubs and enjoyed showing it off.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'In 1866, The United States purchased Alaska from Russia for $7.2 million by writing a check.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'In the Philippines, you can buy spaghetti at McDonald’s, where they also sell a “McDo” piece of chicken.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Though most think it’s Italian, pepperoni is an American invention. The first use of the word dates back to 1919.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'The pumpkin is a member of the cucurbit family, which are gourds, such as cucumbers and squashes.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Any prime number higher than three, when squared and subtracted by one, will always turn out to be a multiple of 24.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'When dogs are first born, they are completely blind & cannot hear anything. The first sense which they develop is the sense of touch.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Margherita Pizza uses tomato, mozzarella, and basil toppings to represent the Italian national flag. It was originally to honor the Queen of Italy in 1890.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Sudan has more pyramids than any country with 255. They outnumber Egyptian pyramids by twice the amount.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'The money for the Statue of Liberty came from fundraising from auctions, a lottery, and boxing matches in Europe and the U.S. The Statue cost the French about $250,000, which today would be over $5.5 million dollars.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Not all hamsters are small. Although some hamsters are as small as 2-4 inches, the largest ones are approximately 13 inches long.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'The hand and footprints in front of the Chinese Theater tradition started accidentally when silent film actress, Norma Talmadge stepped on wet cement.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Snakes can help predict earthquakes. They can sense a coming earthquake from 75 miles away, up to five days before it happens.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Soviet Russia needed lighthouses on their uninhabited Northern Coast, so they built automated lighthouses powered by small nuclear reactors.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Animal’s yawn based on how large their brain is. The bigger the brain, the longer they will yawn.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Before Apple bought Siri, it was originally going to be released as an app for Android & Blackberry.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Approximately 1 in every 2,000 babies already has a tooth when they are first born.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'The Young America Township in Minnesota has a population of less than 1,000, but more than 20 zip codes.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'The United States Department of Agriculture says the official definition of a sandwich is: “at least 35 percent cooked meat and no more than 50 percent bread”.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Nutella was invented during WWII when an Italian pastry maker mixed hazelnuts into chocolate to extend his chocolate ration.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'The original name for Xbox was DirectXbox designed to show how Microsoft’s Direct X graphics could improve the console market.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'In Switzerland, it is illegal to own just one guinea pig. This is because guinea pigs are social animals, and they are considered victims of abuse if they are alone.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Walter Hunt, a man from America, invented the safety pin back in 1849.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'The highest recorded fall without a parachute happened in 1972 at 33,333 ft. The victim, Vesna Vulović was in the hospital for 16 months after the fall.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'A mason in 1700’s Jerusalem left his wooden ladder behind after doing some work on a church and now it can’t be moved without the agreement & permission of six different Christian leaders.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Eminem’s mother filed an $11 million defamation lawsuit against him because of his lyrics about her. She settled for $25,000 and $23,354.25 of that went to her lawyer.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'San Marino is the fifth smallest country in the world (and the third smallest in Europe).',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'A woman faked her entire tragedy and the loss of her husband during the 9/11 attacks and became President of the Support Network in New York.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'The Postal Service got its name based on the fact that they originally used USPS to send each other music tracks because of conflicting schedules.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'December 3rd is known as “Roof Over Your Head Day” – a day to be grateful of what we have in life!',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Alaska is the only state in America that can be typed on one row of a traditional English QWERTY keyboard.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Michael Jackson’s shiny glove was actually just a modified golf glove.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'The spiked dog collar was invented by the Ancient Greeks to protect their dogs from wolf attacks.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Mr. and Mrs. originated from using the words master and mistress.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'The only difference between kosher salt and table salt is the grain size. Kosher salt is smaller, and they both come from underground salt deposits.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Invented in 1923, Q-Tips were originally called Baby Gays; then Q-Tip Baby Gays, then finally just Q-Tips. The Q stands for quality.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: '1912 saw the last Olympic gold medals made entirely out of gold.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Every 10 years, the human skeleton repairs and renews itself. Essentially, you have different bones now than you did 10 years ago!',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'The first game to be played in space was Starcraft – Daniel Barry took it with him in 1999 on the Space Shuttle mission STS-96.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Houston is the most diverse city in the United States. As of 2010, 43.8% is Latino, 25.6% is White, 23.1% is Black, and 6% is Asian.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'May 29th is “National Put a Pillow on Your Fridge Day“. It is celebrated in Europe & USA to bring luck & wealth to the household.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'When water freezes to ice cubes, it will take up 9% more volume.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'The little piece of paper sticking out of a Hershey’s Kiss is called a niggly wiggly.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'As a child, Jet Li performed with the Chinese National Wushu Team for President Nixon. Nixon asked him to be his personal bodyguard, but he declined.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Eating grapefruit can restrict the effects of 43 different kinds of medications.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Dinosaurs would swallow large rocks which stayed in their stomach to help churn and digest food.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'The word robot comes from the Czech “robota”. This translates into forced labor or work.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'During 1943, U.S. officials imposed a short-lived ban on sliced bread as a wartime conservation measure. It lasted less than 3 months.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Abraham Lincoln loved cats and once let one eat from the table during a formal White House dinner.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'The Canadian government isn’t sure when Canada became a sovereign state. Its Supreme Court ruled that sovereignty occurred sometime between 1919 and 1931.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'On April 1, 2005, NASA pulled an April Fool’s prank telling the world that they had found water on Mars.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'There’s a town in the Oklahoma panhandle named “Hooker” and its slogan is “it’s a location, not a vocation”.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Japan is facing a ninja shortage. There is a high demand for “ninja shows”, but it is a dying tradition and companies have trouble time finding properly trained ninjas.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'New Jersey had 4 Governors in the span of 8 days in early 2002. The shortest term of those was served by John Farmer Jr. for 90 minutes.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'George Miller – the person who created Mad Max is the same person who created Happy Feet.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Surgeons who play video games at least 3 hours a week perform 27% faster and make 37% fewer errors.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'In Svalbard, a remote Norwegian island, it is illegal to die.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'When cellophane was invented in 1908, it was originally intended to be used to protect tablecloths from wine spills.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'A Dutch start-up company has been able to start training wild crows so that they pick up cigarette butts and put them in bins for a peanut as a reward.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'We feel “hangry” because it’s harder for us to control our emotions when our brains are low on glucose.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'The mayor of a historical district in Alaska is a cat named Stubbs. Mayor Stubbs drinks catnip laden water from a wineglass every afternoon, at a local restaurant.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Spam mail got its name from the canned meat after a Monty Python skit that made fun of Spam as tasting “horrible and being ubiquitous and inescapable”.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Humans specifically have eyes that face forward for the purpose of seeing in 3D. On the other hand, vegetarian dinosaurs such as the Triceratops, had eyes that looked out to the side so they could stay vigilant watching for danger as they ate.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'In the 1980s, the founder of Pringles, Fredric Baur, requested to be buried in a Pringles can. His children honored the request.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'You can now get a headstone with a QR code. Called “Living Headstones”, they show pages with photos, video biography’s, and comments from loved ones.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'While filming Dumb and Dumber, Jim Carrey had his crown temporarily removed – that chipped tooth is real and a result of a childhood fight.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Ginger beer is brewed and fermented with ginger, while ginger ale is merely carbonated water flavored with ginger.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'During the first live iPhone presentation, Steve Jobs had to frequently switch phones behind his desk. Otherwise, it would run out of RAM and crash.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'In Mississippi, it is considered a federal offense to Dine-n-Dash on a check that is over $25. In California, it is only petty theft.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'The NYPD had a police officer follow Andre the Giant whenever he went out drinking. This was to make sure he didn’t get drunk and fall on anyone.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'In the popular film, The Godfather, the word “mafia” is never said because the actual mafia commanded it.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'The only window that opens on the presidential car is the driver’s window, to pay tolls. It also has no keyholes, and only the Secret Service knows how to open the doors.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Thomas Edison invented an electric pen in 1876 that was later adapted to become the first tattoo machine in 1891.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Animal Planet aired two fake documentaries that “proved” mermaids exist. So many people thought it was real that the U.S. government issued an official statement about it.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'In 18th Century England, having a pineapple was a symbol of wealth because of high import fees. They would be used as displays instead of being eaten.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Marvel’s Deadpool issue #27 holds the Guinness World Record for the most comic book characters on one cover.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Instead of an agent, Bill Murray uses a 1-800 number where you can leave a message for him if you want to cast him for a movie or event.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'When written down, the word “almost” is the longest word in the English language to have all of its letters in alphabetical order.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'The black-footed cat is the smallest wild cat, at just 20 inches long.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'The world’s most remote ATM is run by Wells Fargo in the Antarctic. The ATMs serve around 1,200 residents at the U.S. scientific facility.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'The first Game Boy could run for a staggering 30 hours on only two AA batteries!',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Hershey’s chocolate syrup, Ritz Crackers, DumDums, and Oreos are all suitable for vegans.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'The sound of a Star Wars lightsaber was created by pairing together the sound of an idle film projector and the buzz from an old TV set.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Your tonsils can grow back if there was tissue left behind during the removal process. Sometimes it’s accidental, other times it’s left on purpose.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Greenland voted to leave the European Union in 1985 and has not rejoined since.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Every second, the human eye moves about 50 times.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'There’s a reply to the saying “Liar, liar, pants on fire” – It’s “I don’t care, I don’t care, I can buy another pair”.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Only 2% of the world’s population has green eyes.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'The A.D. and B.C. system was not proposed until 525 A.D. by a monk. However, it was not widely used until the 9th Century.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Daniel Radcliffe had the same stunt double for the first six Harry Potter movies – until the double was paralyzed from an accident on set during the filming of the 7th movie.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            '“Tater Tots”, a registered trademark, originally failed because people thought the product was too cheap. Popularity rose after the price was raised.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Movie theaters make roughly 85% of their profit off concession stands. This is because ticket revenues have to be shared with the movie distributors.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'By mixing nonoplatelets from carrots and other root vegetables, concrete mixtures can be significantly strengthened, meaning less cement is needed to achieve the same effect.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Honey, and items immersed in honey, can be preserved for centuries. The long shelf life is due to an enzyme found in the stomachs of bees.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Credit card EMV chip technology has been around since 1986. It was first implemented in France, with Germany following shortly after.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'The odds of being born on February 29th are 1 in 1461.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'People who donate blood in Sweden are sent a text message each time their blood saves a life.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'In the U.S., around ¾ of all houses possess at least 1 jar of peanut butter.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            '30 of the first 31 popes were murdered. Most of them were martyred, but not all causes of their deaths are known.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'The average U.S. household has 300,000 things, from paper clips to ironing boards. U.S. children make up 3.7% of children on the planet but have 47% of all toys and children’s books.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'The commonly known phrase “to a T”, means something that fits just right. Interestingly enough, this expression derives from a similar phrase “to a tittle”, which is a small mark that is used in spelling norms, like the dots of i’s or j’s, or an accent mark.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Both Motel 6 and Super 8 got their names from the original prices of the rooms. Motel 6 started at $6 in 1962, and Super 8 at $8.88 in 1974.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'About 25% of all blood from the heart goes into the kidneys.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'In Israel, it is illegal to bring bears to the beach.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Rednex, the band who remixed and popularized Cotton Eye Joe, is not Southern, but Swedish. They all have Southern-sounding stage names.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'BuzzFeed sponsored content costs about $20,000 for five or six “articles”.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Comets only reflect 4% of the light that falls on them, the rest is absorbed.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'The name for the shape of Pringles is called a “Hyperbolic Paraboloid”.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Writing down your worries before taking an exam can help combat test anxiety, improve performance and boost your test scores.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'The highest body count in film history goes to “Lord of the Rings: Return of the King” with 836 on-screen deaths.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'There is an uninhabited island in the Bahamas known as Pig Beach, which is populated entirely by swimming pigs.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'While filming Rocky IV, Lundgren hit Sylvester Stallone for real and he ended up in the hospital for nine days.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'For almost 15 years, Vermont was technically its own country before joining the United States in 1791. It had its own coins and postal service.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'An adult’s kidney weighs about 5 ounces (142 grams) and is the size of a fist.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Without saliva, humans are unable to taste food.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'The German Autobahn has no speed limits because Western Germany saw them as a Nazi relic. This became effective in 1972.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'If you ate nothing but rabbit meat, you would die from protein poisoning. This would be a mixture of too much protein and an absence of fat in the diet.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'The loudness of a monkey is relative to the size of its testicles. Researchers found that the smaller the testicles, the louder the monkey.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Every Pixar movie contains a reference to the Pixar movie that comes after it.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Joe Arridy had an IQ of 46 and is known as the “happiest prisoner on death row”. He went into the gas chamber with a smile. It turned out he was innocent.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'There exists a plankton, Dinoflagellates, which if consumed, reverses your feeling of hot and cold – as well as hallucinations. Symptoms can last from weeks to years.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Red pandas have no living relatives – they aren’t even related to giant pandas.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'After Christianity, the largest religious affiliation in the U.S. is Judaism.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Ewok Jerky was a popular snack across the Outer Rim in the Star Wars Universe.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Italy built an entire courthouse to prosecute the Mafia. They charged 474 members in a trial that lasted from 1986-1992. To date, it was the biggest trial in the world.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Doug Engelbart created the very first computer mouse from wood in 1964.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'The smallest thing ever photographed is the shadow of an atom.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Despite Mercury being the closest planet to the Sun, Venus is the warmest planet.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'There is no visual differences between male and female herons.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Cranes are built using cranes.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'In the popular 2014 movie “Godzilla“, the Godzilla portrayal was only seen for about 8 minutes in the entire film.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'In every scene of Fight Club, there is a Starbucks coffee cup.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'It snowed in the Sahara desert for 30 minutes on February 18, 1979.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'PewDiePie supported his YouTube channel by selling hot dogs. His persistence paid off when in 2012 his YouTube channel garnered over one million subscribers.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Approximately 1,000,000 dogs in the U.S. are named as the heirs of their owners’ wills.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'It takes longer to drown in salt water than in freshwater. Because of this, around 90% of drownings occur in freshwater.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Employees at MillerCoors get three free cases of beer each month, in addition to having access to beer and cider on location after a work day.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Steven Spielberg was executive producer of The Animaniacs.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Kanye West’s song “Hey Mama” was dedicated to his mother, who died in 2007 after complications with plastic surgery.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'More than 90% of survivors of the 9/11 terror attacks delayed evacuation to save their work, shut down computers, change shoes, or visit the bathroom.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Queen Elizabeth saved up post-war clothing ration coupons in order to pay for her wedding dress in 1947.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Sweden has the most islands in the world, with 221,800 islands.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Although dingoes are about the same size as a Springer Spaniel, they are brave enough to target an adult kangaroo when hunting in packs.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'If you keep smelling something that is not really there, you may be experiencing the earliest symptoms of schizophrenia.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'When George Washington died, Napoleon Bonaparte of France gave a personal eulogy and ordered a ten-day mourning period for France.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Since the death penalty was restored in 1976, the states of Washington and New Hampshire have returned to hanging as an available method of execution.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Even though drugs are officially illegal in the Netherlands, it is legal to be under the influence of any drug to encourage people to seek medical help.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'The first world leader to create a YouTube channel was the British Prime Minister, Tony Blair who made his account in 2007.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Rick Astley has his own brand of beer. It was a collaboration between him and the Danish microbrewery Mikkeller; it’s a red lager with “a hint of ginger”.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'The total spend on adult Halloween costumes each year in America is $1.5 billion.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'When double rainbows occur, the colors of the second arc are always reversed.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Bookworms are actual insects that bore holes in books. A major book feeding insect is a paper louse that feeds on microscopic mold in poorly kept books.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            '3 inches of ice can support one person, on foot. 4 inches can support a group of people, single file. 36 inches can support up to 110 tons of weight.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'January 17th is known as “Ditch New Year’s Resolution Day”.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Dinosaurs that could run using just two legs are referred to as bipeds.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Russia has the most man-made satellites in orbit with 1,324. There is a total of 2,271 and the U.S. is in second place at 658.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'The most difficult Chinese character requires 62 total strokes to write. The word itself, “biang” holds no meaning.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'In order to protect themselves from poachers, African Elephants have been evolving without tusks, which unfortunately also hurts their species.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'A certain type of box jellyfish’s venom will make you feel a strong sense of anxiety and sense of impending doom, and possibly thoughts of suicide. These symptoms can last up to two weeks.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'The island in Lake Bled is the only natural island in Slovenia.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'In Switzerland, it is illegal to flush the toilet after 10 pm.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'If sheep have long tails when they are born, the tails are cut off in order to prevent infection.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'The name for a collective group of rhinoceroses is called a crash.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Because of the Electoral College, a presidential candidate can win with only 23% of the popular vote.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'There was a snail glued to a specimen card in the British Museum mid-1800s. It spent four years glued there before scientists realized it was still alive.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'August 21st is Senior Citizen’s Day – a day to honor the older generation.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'William Shakespeare had a curse engraved on his tombstone to prevent anyone from moving his bones.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Acetaminophen, one of the most popular pain-killers, restrains masculinity and dulls emotions. It had been rejected in 1887 for its side effects, then approved in 1955.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'The Twenty One Pilots fan base is known as the Skeleton Clique.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'A man who was hanged for his part in the Guy Fawkes Gunpowder Plot had his skin removed and it was used to bind a book that listed his offenses.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Valentine’s Day in South Korea is a little different. Only women give gifts, not men.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+
+    {
+        text: 'Cookie Monster’s real name is Sid.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'At any given moment, there are 1,800 thunderstorms happening on Earth. This amounts to 16 million storms each year.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'March 3rd is known as “What if Cats and Dogs Had Opposable Thumbs Day”.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'While writing the famous song, “Hallelujah“, Leonard Cohen originally wrote 80 verses for the song which he sometimes interchanges in and out depending on where he’s playing.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'People can suffer from a psychological disorder called Boanthropy that makes them believe they are a cow.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Hugh Jackman often will tell paparazzi where he is when he goes home to Australia so they can get their photos then leave him alone for the rest of his visit.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'The “Lost” pilot was so expensive (over $10 million) that the Chairman of ABC was fired for green-lighting the project.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'The largest living thing on earth is a giant sequoia named General Sherman.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Tupac was the first U.S. artist to have an album reach Billboard #1 while still in prison. It was his third studio album, titled “Me Against the World“.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'If you multiply 1089 x 9 you get the exact reverse, 9801.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'August 17th is known as Black Cat Appreciation Day.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Saturn is so big that Earth could fit into it whooping 755 times!',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            '“Rap God” by Eminem packs 1,560 words into a 6 min 4 sec song. It holds the world record for most words in a hit single.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'A water dropwort is a highly poisonous plant. If it kills you, it can cause you to smile after you die. This is called a sardonic grin.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'There is a British chocolate scientist who insured her taste buds for £1 million.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Kraft singles cannot be advertised as cheese because U.S. FDA standards state a food can only be identified as cheese if it contains “at least 51% real cheese”.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'When the Titanic sank in 1912, there were 3 dogs that survived. They had all been traveling with their owners in the First Class cabins.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'China has a series of underground tunnels running 3,000 miles long. They are used to store and transport mobile intercontinental ballistic missiles.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Pitbulls rank high among the most affectionate and least aggressive dogs. Pitbulls are only aggressive when forcibly trained as such; usually for illegal dogfighting.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Using tanning beds before age 30 increases your risk of developing melanoma by 75%. Tanning beds and lamps are in the highest cancer risk category.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'When Blackbeard captured ships, many of the African slaves on board would go on to become pirates. When he died, nearly one-third of his total crew were former slaves.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'The Poodle is one of the cleanest breeds of dogs, making them a great choice for people with pet allergies. They don’t molt much at all, and they rarely smell either.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Owls have specialized feathers where the edges protrude out to dissipate airflow. This means that they are able to fly silently and are highly deadly hunters.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'A man, Ben Sliney, grounded 4,000 commercial planes across the United States on 9/11 due to the attacks – it was his first day on the job.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Elton John tried to commit suicide once by sticking his head in an oven with the gas on low and windows open. He was found and stopped by his best friend Bernie Taupin.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'California law does not allow or prohibit lane splitting – when motorcycles pass other vehicles within the same lane.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'In California, you can get a ticket if you’re driving too slow.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Malta’s official language is Maltese; however, the majority of the population also speaks English.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'More civilians died in the Battle of Stalingrad than the nuclear atrocities at Hiroshima and Nagasaki combined.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Your brain uses 20% of the total oxygen in your body.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Both KitKat and Rolo is produced globally by Nestlé, except in the U.S. where it’s made by their competitor, Hershey’s.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'When electricity was first installed in the White House in 1891, President Benjamin Harrison and his wife were afraid of electrocution because of the new concept. They refused to touch light switches so the staff had to turn the lights on and off for them.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: '35,000 hectares of peas are grown in the UK in a single year.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'In 2007, a 1000-gallon inflatable swimming pool was stolen from someone’s back yard without a single drop of water being found!',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Both U.S. and Soviet militaries have trained dolphins. They can be used for rescuing lost naval swimmers and locating underwater mines.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Being in a negative relationship can weaken your immune system.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'October 19th is “Evaluate Your Life Day” – a day to think about your situation in life & wonder how it could be improved. Be sure to weigh the good and bad!',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'The total population of insects is estimated to be a billion times greater than that of the human population.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Snoop Dogg’s real name is Cordozar Calvin Broadus Jr. His “Snoop Dogg” nickname came from his mother who thought he looked like Snoopy from the Peanuts.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'When the historic Plaza Hotel in NYC opened in 1907, a room cost $2.50 per night, the same as $64.26 today. The Plaza now charges over $1,000/night.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Originally, the Eiffel Tower was going to be erected in Barcelona, but the project was rejected because citizens thought it was an eyesore.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'The world’s longest place name has 85 letters & is located in New Zealand.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'An amateur beekeeper and a group of scientists found that wax worms are capable of eating and breaking down plastic bags. The settings of a wax worm’s stomach can be recreated to safely dispose of plastic bags and bottles.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Long ago, people chewed on tree bark as a method of pain relief. Willow bark has a high amount of salicylic acid, an ingredient still used in aspirin today.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'The oldest “your mom” joke was discovered on a 3,500-year-old Babylonian tablet in Iraq in 1976. The tablet has since been lost, but the text remains preserved.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Kangaroos keep growing until they die. They are the world’s largest marsupial.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'In 1923, a jockey suffered a fatal heart attack but his horse finished and won the race, making him the first and only jockey to win a race after death.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'A red blood cell takes only about 20 seconds to make a complete circuit through your body.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Iceland was chosen as the training ground for Apollo astronauts because it was the most “moonlike” surface.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'A polygon with 30 sides is a triacontagon.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'The shower-curtain effect is the phenomenon in which a shower curtain gets blown inward with a running shower. Scientists don’t know what causes this.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'The KKK headquarters were purchased by the Catholic Church then turned into a church.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'After a waitress at a pizzeria helped a customer choose the numbers for a winning lottery ticket in 1984, he “tipped” her $3,000,000 – half of his $6,000,000 prize money.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Jack Gilinsky is Jewish.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'While most people think of Neil Patrick Harris as an actor, he is also a writer, producer, comedian, singer, and even amateur magician!',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Part of the Falklands Islands is littered with leftover landmines from the Falklands War. This stretch of beach has become home to over 1 million penguins as they are too light to trigger the mines when walking on them.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Young Tyrannosaurus rex‘s probably had a thin coat of downy feathers to stay warm. They did not need them as they got older due to their size.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'The first jet aircraft was invented in Nazi Germany. Development started in 1936, but the first takeoff occurred in 1939.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'If you were to have your picture taken by the very first camera, you’d need to sit still for 8 hours.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Of the top 20 most-watched TV broadcasts in the United States, 19 were Super Bowls, and the other was the 1983 finale of M*A*S*H.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'English accounts for 50% of visited webpages, even though the amount of English users is only 26%. Russian accounts for the 2nd most visited pages at only 6%.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'In season 5 of Breaking Bad, Aaron Paul (Jesse) was paid $150,000 per episode.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'September 25th is known as “World Dream Day” – a day about chasing your dreams, no matter how big or small they may be!',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'A snail can sleep for 3 years.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Since 1497, the United Kingdom has printed their laws on vellum, made from calf or goat-skin. They continue to do this in order to uphold the tradition.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Steven Spielberg and George Lucas wanted to make an animated Calvin and Hobbes movie. The author declined because he wanted to protect the integrity of the comic.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'In New Delhi, if a tree falls sick, an ambulance is dispatched to treat them. This came into effect in 2009 and takes four people to do the job.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'In 1998, David Bowie released an internet provider called BowieNet. Subscribers were offered exclusive content and a BowieNet email. It was shut down in 2006.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'The 6th largest pyramid in the world is a Bass Pro Shops in the Memphis Pyramid. At 32 stories tall, it also has the tallest freestanding elevator in the U.S.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Ben & Jerry’s has an online flavor graveyard for their 10 discontinued ice cream flavors. Each one has a photo, life span, and epitaph.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Females are better at distinguishing colors, while males excel at tracking fast-moving objects and discerning detail from a distance.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'During the Aztec reign, a slave could be bought for 100 cocoa beans.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'The average temperature of a beehive is the same as a human body. Bees flap their wings to regulate heat.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'The famous Lacoste crocodile symbol was created in 1933, and was the first designer logo ever.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Each day on Neptune lasts for around 16 hours, 6 minutes and 36 seconds.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            '“Infantry” sounds like “infant” as typically in ancient times an army’s infantry consisted of soldiers too young or too inexperienced to ride a horse and be part of the cavalry.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'The fear of vegetables is called Lachanophobia.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'During the cremation process of a 500 pound body, the corpse was so obese that it set the crematorium on fire.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'In English, twelve is the largest number that has just one syllable.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Out of the 400 species of parrots, there is only one that can’t fly, called the Kakapo parrot.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Calling “shotgun” when riding in a car comes from the term “shotgun messenger”.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Dogs with pointed and long faces tend to live longer than those which have flatter faces, such as pugs.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'In 2005, Frito-Lay launched Cheetos Lip Balm, but it was quickly taken off the market due to its failure.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'The average human heart beats 3.6 million times a year.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'The average life expectancy of a toucan is a very impressive 20 years.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'A standard 12oz jar of honey take 864 bees to produce.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            '7% of all American adults believe that chocolate milk comes from brown cows. That works out to 16.4 million people.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Marie Antoinette’s last words were to her executioner after accidentally stepping on his foot, saying, “Pardon me sir, I meant not to do it”.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'In Japan, many families eat a KFC for Christmas Dinner. Many people order their meals months in advance and queue for hours to collect them.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Arctic and Antarctic trace their names to the simple meanings of “Bears” and “Opposite the Bears”.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Your earlobes line up with your nipples.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Jupiter completes a rotation of the Sun every 11.86 years.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Hanson made a beer called “Mmmhops”. They give away a free song with every bottle.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Using a hands-free device to talk on the phone while driving is shown to be equally or more dangerous than driving drunk.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Even a small amount of alcohol placed on a scorpion will make it go crazy and sting itself to death.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'The first roller coaster was used to transport coal down a hill. After people found that it could reach speeds up to 50 miles per hour, tourists asked to ride on it for a few cents.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'The Monster in Frankenstein was never actually named, although the Monster itself proposed the name “Adam”.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'At one point, 50% of the CD’s produced worldwide had an AOL logo on it. The cost for the marketing campaign was in the billions – and it worked.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'There are 30 times more trees on Earth than there are stars in the Milky Way. It’s estimated that there are 100 billion stars, and 3 trillion trees.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'The first spacecraft to visit Mars was Mariner 4 in 1965.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'According to Biblical Scholars, Jesus was more than likely born in a cave not a stable as the tale says.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'The process by which bread toasts is called the “Maillard Reaction”.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'The front paws of a cat are different from the back paws. They have five toes on the front but only four on the back.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'The word “barbarian” originally referred to people who don’t speak Greek. The Greeks thought people who spoke a foreign tongue sounded like they were saying “bar bar bar” all the time.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'A group of horses will not go to sleep at the same time – at least one of them will stay awake to look out for the others.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Antimatter is the most expensive substance on earth. It costs roughly $62.5 trillion per gram, or $1.75 quadrillion per ounce.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'The word “friends” is said in every episode of Friends.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Alongside Sudoku, chess has been named as one of the best ways to improve the mind and the memory.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'In Utah, birds have the right of way on a highway.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Logan was the most complained about movie in the U.K. in 2017 as viewers felt that the movie was too violent for its 15 rating.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'It was Nicholas Cage who first advised Johnny Depp to pursue a career in acting, during the mid-1980s.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'While hunting, stoats go crazy jumping, spinning, and twisting to get a rabbits attention. This hypnotizes the rabbit until the stoat gets close enough to attack.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Jellyfish are considered biologically immortal. They don’t age and will never die unless they are killed.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Extreme ironing is a sport in which people take ironing boards to remote locations and iron items of clothing. It originated in England.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Mickey Mouse was the first-ever cartoon character to talk. In the 1929 episode, The Karnival Kid, Mickey’s first words were “Hot dogs!”',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Bob Ross’s hair was naturally straight but he chose to get a perm so he could save money on haircuts when touring the US penniless in his mobile home. Bob actually hated his curly hair but kept it as it was iconic.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'The longer you spend dating somebody before marrying, the less likely the marriage is to end in divorce.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'It costs almost $290,000 per year in fees to run a hot dog cart near the Central Park Zoo in New York City. This does not include cart incurred costs.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Around 15% of active Twitter accounts are social bots. This means there are nearly 48 million accounts that are not controlled by humans.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Contrary to popular belief, only 45% of the London Underground is actually underground.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'In 2013, a plant was genetically spliced that grew tomatoes above ground, and potatoes underground. It is called the TomTato.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'In Indonesian, there is a word, “Jayus”, that means “A joke told so poorly, and so unfunny that one cannot help but laugh”.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Overwhelmingly, red states have the highest rate of dog ownership while residents of blue states are more likely to keep a cat as a pet.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Frederick Douglass was the most photographed man of the 19th Century. He wanted to ensure an accurate depiction of Black Americans during the Civil War.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Apple seeds, cherry apricot, and peach pits contain cyanide, but it takes a large amount of each to actually make you sick or kill you.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'In Australia, there are nearly twice the amount of kangaroos as there are humans.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'During the Prohibition era, the U.S. Government allowed Whiskey to be sold through pharmacies. As a result, Walgreens grew from 20 retail stores to almost 400.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: '15% of iPhone users use an iPhone with a broken screen.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Baby owls are called “owlettes”.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'The EU didn’t want to showcase any country over another, so the architecture on each EU banknote was created by a computer to make neutral designs.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Elephants can die of a broken heart if their mate dies.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'The average person takes 12 seconds to count to 24.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'It’s Australian tradition to eat sausages at polling places on election day called Democracy Sausages. For many communities, this is the biggest fundraising event of the year.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'For her part as June Boatwright in the 2008 movie “The Secret Life of Bees“, Alicia Keys learned to play cello within 4 weeks.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Celebrity chef Jamie Oliver has such severe dyslexia that he didn’t read his first novel until he was 38.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Uncle Phil from Fresh Prince of Bel-Air was also the voice of Shredder from the original Teenage Mutant Ninja Turtles cartoon.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'The fear of cooking is known as Mageirocophobia and is a recognized phobia.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'In Cambodia, rats are being trained to sniff out land mines. They can clear 200 square meters in less than 35 minutes, which usually takes 2-3 days with a de-miner.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            '10% of Filipinos (approximately 10 million people) live overseas. The country with the highest amount is the United States with almost 4 million Filipinos.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'The collective name for a group of unicorns is called a blessing.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'President Ulysses S. Grant was arrested while in office. He was charged, booked, and released for speeding on a horse, and had to pay a fine.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Paddington Bear has 2 birthdays (just like the Queen). Paddington celebrates his birthdays on June 25th and December 25th.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Dogs have a total of 42 teeth when they are fully-grown.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Originally, cigarette filters were made out of cork, the look of which was incorporated into today’s pattern.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'In the early 1900s, there was a pod of killer wales who helped humans hunt down other wales in Australia. They would do this for the fins and tongues of the captured whales as rewards and this agreement was known as “The Law of Tongue”.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'During 9/11, some fighters took off without live ammo, knowing that to stop the hijackers; the pilots might have to crash their fighters into the planes.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'In Halden prison in Norway, guards are encouraged to interact, play sports, and eat with the inmates. This is to prevent aggression and create a sense of family.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'The Danish flag is the oldest current flag of a sovereign state. It was adopted in 1370 or earlier. The second oldest is Netherlands at 1572.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'The entire world population could fit in Texas allotting 330 square feet per person. The area of Texas is about 262,000 square miles.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'On average, 97 chickens are killed every 0.05 seconds worldwide.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Paul McCartney was only paid £1 for performing at the 2012 London Olympics Closing Ceremonies. He willingly donated his performance.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'All of the sweaters Mister Rogers wore on his show were hand-knitted by his mother. He said he loved wearing them because they always made him think of her.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'The maximum recommended consumption for Monster Energy Drink is 16oz in Australia, but 48oz in the U.S.A.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Coca-Cola was first served in 1886. At that time, only 9 colas were served in an average day, 3,285 a year. Today, 19,400 Coke products are consumed every second.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Alexander Hamilton was shot and mortally wounded by Aaron Burr on the same spot that his son had been killed 3 years before, and by the same set of pistols.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Sunflowers can help clean radioactive soil. Japan is using this to rehabilitate Fukashima. Almost 10,000 packets of sunflower seeds have been sold to the people of the city.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Medical errors are the 6th leading cause of the death in the U.S.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Nicki Minaj is acrophobic, meaning she is afraid of heights.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Ed Sheeran has a ketchup bottle tattooed on his arm.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'After a Muslim astronaut had trouble figuring out how to fast for Ramadan in space, a booklet was written to explain how to observe Ramadan while in orbit.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Manatees can get frostbite in water below 68 degrees Fahrenheit (20°C). Their fat is not designed to insulate them from the cold.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'There is a town in India called Santa Claus.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: '“Darth Vader” is derived from Old Dutch, meaning “Dark Father”.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'In the original Psycho movie, the blood in the famous shower scene was actually chocolate syrup.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'There are more storms on Mars when the planet is closer to the sun.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'False eyelashes were invented in 1916 when a producer wanted to enhance an actresses’ eyes in a movie. The lashes were made of human hair.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'The word “Gymnastics” linguistically means “to train naked”. It is derived from the two Ancient Greek words “gumnasía” (athletic training, exercise) and “gumnós” (naked). This is because many Greek athletes would train naked for the Olympic games.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'In the film Star Wars Episode Three: Revenge of the Sith, every single one of the Clone Troopers was produced using CGI effects.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'You’re not allowed to swear if playing in Wimbledon. Because of this, line judges have to learn curse words in every language.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'It is illegal to play a musical instrument in the Northern Territory, Australia, for the purpose of annoying other people.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Bob Marley’s last words were “Money can’t buy life”.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'America consumes almost 50% of the world’s chocolate.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'A study at Florida State University discovered that playing Portal 2 is better for your brain than brain-training games like Lumosity.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'People who eat breakfast feel better both mentally and physically throughout the day.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'The original Xbox contained edited snippets of actual transmissions from the Apollo missions.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'When Pink Floyd designed the “Animals” album cover, the inflatable pig tied to the power station broke free, causing Heathrow Airport to cancel all their flights.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Herring fish communicate by using flatulence.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: '“Schnapsidee” is the German word for a ridiculous idea that only sounds good when you’re drunk.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Forgiveness is the number one trait linked to happiness in humans.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'The police in Belfast, Northern Ireland, used music from an ice-cream truck to calm down angry teen rioters. The music diffused a tense situation, but the officers were reprimanded for it.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Ralph Lauren’s real name was Ralph Lifshitz.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'In the 1830s, the ruler of Egypt Muhammad Ali Pasha wanted to disassemble the Giza Pyramids and use them as pre-cut building materials. Thankfully, the Quantity Surveyor for the project fudged the figures and made it look like it would cost too much to save them.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Pantheism is the belief that God did not create the universe, but rather the universe is God.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'By using big data, Wal-Mart determined that people stock up the most on strawberry Pop-Tarts and beer before a hurricane.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'The most used hashtags on Instagram are #love, #instagood, #me, #cute and #follow.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Cats can hear ultrasound.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Anna Bagenhold fell through a frozen stream while she was skiing and was stuck for over an hour. She made a full recovery and became the person to survive the lowest body temperature ever recorded at 56.7 F (13.7 C) even though she was clinically dead.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Aggressive sitting is a sport. It originated in Berlin no later than 2008. You can purchase a special stool for this sport for around 70 dollars.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'The whole Harry Potter series contains 199 chapters, 4,224 pages, and 1,090,739 words and has been made into 19 hours and 39 minutes of the film.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Daniel Radcliffe identifies as Jewish, and his mother is Jewish too.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'The distance from your wrist to your elbow is the same length as your foot.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'A group of parrots is known as a pandemonium of parrots.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'On average, PewDiePie receives around 2 million YouTube views on each video after only 24 hours of uploading them.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'When Jay-Z was 12, he shot his older brother in the shoulder for stealing his jewelry. He later referenced it in a song, titled “You Must Love Me“.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'In Ancient Greece, throwing an apple to a woman was a symbolic declaration of love, and to catch it was to show acceptance of that love.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'The average computer user blinks seven times a minute, the normal rate is twenty times per minute.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'If you keep a goldfish in a dark room, it will become pale.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Worldwide cucumber production was 57.5 million tons in 2010 alone, with 40.7 million tons of production and export happening in China.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'When tea started being sold in bags, originally it was intended to be removed from the bags by customers, but they found it easier to brew the tea still in the bag.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'If the electors of the Holy Roman Emperor did not vote within 30 days, they were only allowed to eat bread and water and forbidden to leave the city.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'A woman once tried to commit suicide by jumping off the Empire State Building. She jumped from the 86th floor but was blown back onto the 85th floor by a gust of wind.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'The original Star-Spangled Banner was sewn on the floor of a brewery in Baltimore in 1813 by Mary Pickersgill and her daughter.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Cucumber can actually cure bad breath. A slice pressed to the roof of your mouth for 30 seconds with your tongue allows the phytochemicals to kill the problematic bacteria.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Wonder Woman has a black sister, Nubia. She was sculpted from black clay-like Diana was sculpted from white clay.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Dartmouth’s unofficial mascot is a beer keg called “Keggy the Keg”. Created in 2003, it was initially controversial but is now part of the Dartmouth culture.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: '27,000 trees are cut down every day to supply the world’s toilet paper.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'According to scientists, the weight of the average cumulus cloud is 1.1 million pounds.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Egg yolks are one of the few foods that naturally contain Vitamin D.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'The first band to ever perform live on all seven continents was Metallica.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'November 17th is known as “Unfriend Day”. On this day you should unfriend anybody who you don’t know or speak to.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'A 2017 survey found Paraguay to be the happiest country in the world for the second year in a row.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'In a few Appalachian forests, there are fireflies that glow blue for up to a minute instead of flashing yellow.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Spacesuits take 5,000 hours to make, costs 1 million dollars, weigh about 110 pounds, and have 11 layers of material.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'There are more than 70 species of mushrooms that glow in the dark.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'There is a Guinness world record for the longest amount of time needed to create an official government – it is held by Belgium.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Some butterfly species are extremely fast; the Skipper Butterfly can fly faster than a horse can run.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Canadian law requires citizens to answer a math question when entering sweepstakes. This is done to add some aspect of skill to the contest.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'The Empire State building only took a little over a year to build (410) days and it was 12 days ahead of schedule when completed.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Neptune was the first planet to be found through mathematical predictions rather than telescopic location.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Foxes have whiskers on their legs. This helps them with their bearings, especially when it’s dark outside.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'The call of a Kookaburra is used as the stock jungle sound effect in many movies and shows set in the jungles of Africa or South America, even though they are only in Australia and New Guinea.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Deep snow can sometimes appear blue in color because the extra layers of snow create a filter for light.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Crows can remember the faces of individual humans. They can also hold a grudge.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'In 1942, a 12-year-old lied about his age to join the Navy. He became a decorated war hero at age 13 but was thrown out of the Navy after his mom found out.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'A Brussels airline flight to Vienna was aborted because the pilot was attacked in the cockpit. The attacker was a passenger’s cat.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'The least common day to be born on is May 22nd.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Reindeer are one of the only mammals that can see UV light.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Angelina Jolie performed her own stunts whilst filming Lara Croft: Tomb Raider.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'As per the Shark Tank contract, if you mention the name of any company you own, then Shark Tank automatically owns 5% of that company or gets 2% of the lifetime profits.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Because of its unique tilt, a single night on Uranus lasts for 21 years.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Alaska is the state which produces the most serial killers.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'There is such an expansive collection of books under the British library in their archive, that if a person could read 5 books per day it would take the 80,000 years to complete.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'The King of Macedon threatened Sparta with “If I bring my army into your land, I will raze your city”. The Spartans replied: “If”. No attempt was made to capture the city.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: '85% of Valentine’s Day Cards are bought by women.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Chocolate ice cream has been proven to significantly reduce emotional and physical pain.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Due to paralytics administered, if you wake up during surgery, you probably wouldn’t be able to tell anyone.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'In America, it is a federal crime to use your roommate or friend’s Netflix account.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Volkswagen owns Bentley, Bugatti, Lamborghini, Audi, Ducati, and Porsche.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Facebook causes you to overestimate how happy your friends are and, in turn, makes you more depressed.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Gatorade was invented to help the Florida Gators Football Team stay hydrated.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'When Nike first started, it was called Blue Ribbon Sports. The name was changed in 1971.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: '28 is the atomic number of Nickel and the atomic mass of Silicon.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'The modern salute is believed to be derived from the way in which French Knights would greet each other by lifting the visors of their helmets.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'In 1937, a major fire broke out at the Fox Film Studios in New Jersey. The fire destroyed 75% of their movies, including most of their silent films.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Fungus is more closely related to animals on a genetic level than they are to plants.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+
+    {
+        text: 'The average person in France sleeps 8.83 hours per day, the most in the developed world.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Akon is the #1 selling artist for ringtones in the world.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Albert Einstein was married to his distant cousin; Elsa Einstein.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'In the Pokémon games, Poliwag & Ditto have the same cry sounds.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'The Hogwarts Express from the Harry Potter movies is a real train in Scotland.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Einstein’s brain went missing when he died in 1955 and was lost for 23 years. The doctor who worked on his autopsy stole it and kept in a hidden cider box.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'When you remember a past event, you are actually remembering the last time you remembered it, not the event itself.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'At the 1936 Olympic games, competitors from Liechtenstein were shocked to discover their flag was the exact same as Haiti’s. Liechtenstein added a crown to their flag a year later.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'In Zimbabwe, it is illegal for citizens to make offensive gestures at a passing car.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'The word “oxymoron” is itself an oxymoron. This is because it derives from Ancient Greek where “oxy” means sharp and “moros” means stupid.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            '“She sells seashells by the seashore” was written about a female paleontologist from the 1800s. She actually sold dinosaur bones and fossilized shells.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Scientists have no idea how dinosaurs mated.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'There is a Japanese village called Nagoro which has 35 inhabitants, but over 350 scarecrows!',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Another term for your nieces or nephews would be “niblings”.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Daniel Radcliffe broke over 80 wands while filming the Harry Potter movies because he used them as drumsticks!',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'The “butterflies” you get in your stomach when you see someone you like is actually a stress response from adrenaline.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'The insurance company backing the payouts for “Who Wants to Be a Millionaire” sued the show for being too easy.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'There is no federally declared official language for the U.S. English is only the official language of 32 states.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'It requires seven to eight trees to provide enough oxygen for just one person per year.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'There are more people in the U.K. than in Canada, Australia, Norway, and Iceland combined. The U.K population is over 65 million.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Walking uses a total of 200 muscles with every step you take.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Give something back to the Earth on March 12th – because it’s officially known as “Plant a Flower Day”.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Harry Potter and the Prisoner of Azkaban is the only film in the series not in the 50 highest-grossing films list.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'The first known recipe of Angel Food Cake was published in 1878.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Arizona driver’s licenses don’t expire until you’re 65. You then have to renew in person every five years.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'The name ASOS is an acronym for “As Seen On Screen”.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'In general, people tend to read as much as 10% slower from a screen than from paper.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Rabbits can be literally “scared to death” if approached by a predator when they are totally unaware.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Pistanthrophobia is a common fear of trusting people due to past experiences with relationships gone bad.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'September 3rd is International Bacon Day.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'The same brain cycles that occur when asleep, still happen when you’re awake, but in smaller sections. Meaning, parts of your brain are always “falling asleep”.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'One in every four cranes in the entire world is in Dubai.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'The Lion King was originally called “King of the Jungle” before they realized that lions don’t actually live in jungles.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Several African countries don’t like second-hand clothes being imported to their countries because it is destroying their local textiles industry.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Pure cocoa can help prevent tooth decay. Naturally occurring chemicals in cocoa beans fight harmful bacteria in the mouth.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Baby rabbits are collectively known as litter.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'All of the suits worn by Neil Patrick Harris on How I Met Your Mother were tailored especially for the actor. After the series finale, he took some of them home.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Iceland has a dating app that stops you hooking up with your cousin.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'NASA stands for “National Aeronautics and Space Administration”.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'April 12th is known as “Grilled Cheese Sandwich Day”.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Every day in the U.S., more than 100,000 people get a speeding ticket.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Airport runway numbers actually indicate direction on a compass.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Suriphobia is the fear of mice.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'The goliath frog is the largest frog in the world and can grow up to 12.5inch (32cm) in length, and weigh up to 7.2 pounds (3.3kg).',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'December 12th is Ding-A-Ling Day – a day to call friends and family that you haven’t spoken to in a while.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'There are more volcanoes on Venus than any other planet within our solar system.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'The age of the Universe is estimated to be 13.7 billion years. The oldest stars in the Milky Way, found in globular clusters, are 13.6 billion years old.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Triskaidekaphobia is the fear of the number 13.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Japanese people rarely leave rubbish on the streets. As a result, Japan doesn’t need janitors.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'The costume designers for The Lord of the Rings worked for two straight years making custom armor. Just one Orc suit had 13,000 rings and took 3 days to make.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Eye of newt, toe of frog, and wool of bat are just archaic terms for mustard seed, buttercup, and holly leaves.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Northern Korean people are legally only allowed to have one of 28 haircuts. Men and women can choose from 14 different styles.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Eating a banana can help to form a lining which prevents heartburn from getting worse.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'The closest living relatives of hippopotamuses are whales, dolphins and porpoises.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'The Great Wall of China is 3,728 miles long.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'When Play-Doh was first developed in the 1930s, it wasn’t a toy… it was a way to clean wallpaper.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'In Ancient Bafia culture, one could purchase a wife for the price of thirty potato mashers.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'In a human foot there are 26 bones.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Antarctica is the only continent that turtles don’t live on.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Warren Buffett eats at McDonald’s every single morning and only orders one of three things. It never costs him more than $3.17.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Psychopaths can only think of the possible positive consequences of their actions, not the negative ones.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Disney World is the second-largest purchaser of explosives in the United States, the first being the U.S. Department of Defense.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Hard cheeses have a longer shelf live than soft cheeses.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'There were 19 living men in Austria found to be direct descendants of Ötzi the Iceman in 2013 determined by blood testing.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'The Latin name for banana is “musa sapientum” which translates to fruit of the wise men.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'July 3rd is International Plastic Bag Free Day – it’s a day about making a little change to make a big impact (for the better) in the future.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Coca-Cola owns all website URLs that can be read as ahh, all the way up to 62 h’s.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'In 1907, a woman was arrested on a beach in Boston for wearing a one-piece swimsuit.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Mountain Dew is slang for moonshine. It was originally created as a mixer for moonshine and whiskey in Tennessee.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'The center of a comet is called a nucleus.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'A crocodile escaped out of a duffel bag onboard a flight in the Congo, causing everybody to go to the front of the plane. This caused the plane to crash, leaving only one survivor.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'August 5th is known as National Underwear Day – the perfect day to add some new, confidence-boosting pieces to your underwear collection.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Sprite was manufactured as Coca-Cola’s response to the popularity of 7 Up.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'The word “white” comes from the Indo-European root “kweit” meaning “to shine”.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Although many people think shaving causes the hair to grow back quicker, there is no scientific evidence for this.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'In 1999, PayPal was voted as one of the top ten worst business ideas.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Ziggy Marley, Bob Marley’s son, wrote the theme song for the popular children’s cartoon, Arthur, when he was 26.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Around 70% of people tilt their heads to the right rather than the left when kissing somebody else.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'The name Milky Way derives from the Greek “galaxías kýklos” or “milky circle” due to its appearance as a dim milky band in the sky.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'If your throat tickles, scratching your ear can make it go away.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'A dog was the first living creature to be sent into space in 1957.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'There are more stars in space than there are grains of sand on every beach in the world.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Of the 70% of water covering the Earth only 3% of it is fresh, the other 97% of it is salted.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Baltimore is the largest independent city in the U.S. with a population of 621,849. Meaning, it is not part of any county.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Applying non-fat yogurt to a sunburnt area is a natural way to deal with sunburn.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Humans cannot walk in a straight line without a visual point – When blindfolded, we will gradually walk in a circle.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Baby horses can walk and run after just a few hours of being born.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Even though smoking has been banned on airplanes, ash trays are mandatory on every plane. This is for safe disposal in case someone breaks the law.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: '79% of pet owners sleep with their pets.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Brussels Airport is the world’s biggest chocolate seller, selling over 800 tons of chocolate a year.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Although Saturn is the second-largest planet in our solar system, it is also the lightest planet!',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'The Apple Lisa was the first commercial computer with a graphical user interface (GUI) and a mouse.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'When you have to make a choice, and every choice is a bad one, it’s called a zugzwang.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Victoria’s Secret was originally supposed to be a store for men to shop for their female partners without feeling embarrassed.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'The mongoose is one of those rare animals that are immune to a snake’s venom.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Mulan has the highest kill-count of any Disney character, including villains, and was the first Disney Princess to be shown killing people on-screen.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'In Greece, women are not legally allowed to wear high heels or tall hats in the Olympic Stadium.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Most catfish are normally active at night, however the Peppered Cory Catfish is active more often during the day.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'There was a man in the late 1700’s who had such a constant and severe appetite, he was once kicked out from a hospital because they thought he ate an entire toddler.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Lake Superior contains 10% of the world’s freshwater. It is the size of South Carolina, and contains 2,900 cubic miles of water.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Erotomania is a psychological disorder where the sufferer has delusions that another person is in love with him or her.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Harry Burnett Reese, the founder of Reese’s chocolate, was a former shipping foreman and dairy farmer for Milton S. Hershey, the founder of Hershey’s chocolate.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Selfies now cause more deaths than shark attacks. It is estimated there are 28 selfie-related deaths per year, with the leading cause being heights.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Carrots have zero fat content.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Cards Against Humanity bought an island in Maine to preserve wildlife. It is called Hawaii 2.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Leather products like handbags or shoes can be polished with the inside of a banana skin, simply rub it on and wipe off with a cloth.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: '“Death by PowerPoint” is a term relating to the intense boredom of useless PowerPoint presentations.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Intentionally farting on a California prison guard can get you an additional 11 years in prison.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Nearly every brand of hard liquor is vegan.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Giving up alcohol for just one month can improve liver function, decrease blood pressure, and reduce the risk of liver disease and diabetes.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'The Cesky Terrier is the rarest breed of dog in the world. Around 350 of them exist in total worldwide.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Puma, cougar, and mountain lion are names for the exact same animal. The scientific name is puma, but they are more commonly referred to as cougars.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'In the Philippines, it is considered good luck if a coconut is cleanly split open without jagged edges.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'One of Hitler’s favorite tunes to whistle was the very popular, “Who’s Afraid of the Big Bad Wolf?”',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Jennifer Lopez was the first actress to have a movie and an album hit number one in the same week.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'After the attack on Pearl Harbor, there were 3 sailors trapped in the USS West Virginia who could not be rescued and it took 16 days for them to die.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Jack Daniel (the founder of the whiskey) died from kicking a safe. When he kicked it, he broke his toe which got infected. He eventually died from blood poisoning.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Clinomania is the excessive desire to lay in bed all day.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'At his audition for The Office, John Krasinski told someone he was nervous about the producers ruining the show because of how great the British version was – little did he know, the person he was talking to was the show’s executive producer.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Hawaii’s state flag is the only U.S. state flag to feature the Union Jack upon it.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'The radio took 38 years to reach a market audience of 50 million. The television took 13 years and the iPod only took 3 years to reach a market audience of 50 million.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'If a snake has its head chopped off – that chopped-off head can still bite and unleash a huge amount of venom.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Instead of having an army, Andorrans all must keep a rifle. The law also says that police officers can offer up a firearm if the need arises.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Pope Francis used to be a nightclub bouncer.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'King Kong was the first movie to ever have a sequel.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'With the exception of a few organs, caterpillars liquefy almost completely while undergoing metamorphosis.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Sonic the Hedgehog is in the Guinness Book of World Records for being the fastest gaming character ever.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Each day, your mouth produces anywhere from 2 to 4 pints of saliva.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'BTS was the first K-Pop group to get their own Twitter emojis.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'The Green Lantern debuted in 1940, making the Lantern’s first debut only two years after Superman’s.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Gleeking is the act of stimulating the salivary glands underneath your tongue into spitting a concentrated jet of pure saliva.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Bill Gates house was designed using a Macintosh Computer.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Playboy has been publishing braille versions of their magazines since 1970, however, no pictorial representations are included.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'In 1986, a soviet Aeroflot pilot tried to land the plane blindly with all the windows curtained due to a bet with the co-pilot. He crashed and killed 70 of the 94 passengers on board.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: '26 is the atomic number of iron.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'The swan has over 25,000 feathers on its body.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Biting someone with false teeth in Louisiana, USA is considered aggravated assault.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Allodoxaphobia is the fear of opinions.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Temperature affects your attitude towards others. For example if you hold a warm coffee as opposed to a cold coffee, you are more likely to be more selfless towards others.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Male cats are called toms and females are called queens or mollies.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Nowhere in the Bible does it say there were three wise men, just three gifts.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'When Kurt Russell smashed the guitar in “The Hateful Eight” he accidentally destroyed an irreplaceable 145-year old museum piece, instead of one of the replicas.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Arachibutyrophobia is the fear of peanut butter sticking to the roof of the mouth.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Ladybugs bleed from their knees when threatened.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Butterflies have their skeletons on the outside of their bodies, this is known as the exoskeleton.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'The creators of the PNG image file format wanted it to be pronounced as “ping”.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Dogs can be allergic to humans – specifically, their dander. While being treated for this allergy, it can take up to 12 months for a dog to recover.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'World Kindness Day falls on November 13th and is a day to make the world a better place by showing just a little kindness to everybody.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Makeup has been used by women since before Cleopatra’s time. They would use berries and other fruits to give their faces some color.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            '85% of people have experienced a dream so real that they were not sure if it happened in real life or not.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'When he was President, George H.W. Bush banned broccoli from Air Force One and the White House.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'The British tried to invent a ship made out of wood pulp and ice during World War II. Called Project Habakkuk, it was shelved due to costs.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Although the saltwater crocodile has the highest recorded bite force in any animal, the muscles to open its mouth are weak. Its mouth can be shut with a couple layers of duct tape.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'John Steinbeck was born on February 27, 1902. He wrote 27 books including Of Mice and Men.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'In over 35 British divorce cases in 2012 alone, the video game “Football Manager” was cited.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'The only 15-letter word that can be spelled without repeating a letter is uncopyrightable.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'The last picture taken of John Lennon while he was alive had his killer in the frame.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Gasping for air in a high altitude environment, plus UV light reflecting off the snow will cause the roof of your mouth to get sunburnt.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Tutankhamun’s parents were brother and sister.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'A bottle of Coca-Cola has a PH scale of 2.8, and could dissolve a nail in just 4 days.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'The Titanic was about three times bigger than Noah’s Ark, with a volume of 4.6 million cubic feet.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'The Eiffel Tower was inaugurated the same year Nintendo was founded and Adolf Hitler was born: 1889.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'The largest snowflake in the world was found in 1887 it was 15 inches wide and 8 inches thick.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'China banned Back to the Future because it contained time travel.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Donald Trump owns and operates around 18 golf courses around the world.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'January 10th is “Peculiar People Day” – a day to celebrate those of us who are a little quirky, weird or eccentric.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Aaron Carpenter got verified on Instagram on April 29, 2015.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'The U.S. government gave Indiana University $1 million to study memes.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Cards Against Humanity celebrated Black Friday by digging a hole as long as people donate. They raised over $100k.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Coca-Cola was the first drink that was ever consumed in space.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Enceladus, one of Saturn’s smaller moons, reflects 90% of the sunlight, making it more reflective than snow.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'God is the only Simpsons character who has five fingers. The rest of the characters are only seen with four.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'In India, the flying of a kite is illegal under a 1934 law, which classes kites as aircraft.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'The very first bottle of Dr Pepper was sold in America on January 12, 1885.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            '“Finger Lickin’ Good” had a bit of a mishap when translated to Chinese for their first KFC outlets in the country, the famous phrase became “eat your fingers off”.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Giraffe hearts pump twice as hard as a cow’s heart, in order to get blood to its brain.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Nike was founded on January 25, 1964, by Bill Bowerman and Phil Knight.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'The “Pinky Promise” originally indicated that the person who breaks the promise must cut off their pinky finger.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'The television was invented only two years after the invention of sliced bread.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Drinking water and staying hydrated will help the fluids in your sinuses from becoming sticky, which causes more snoring.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'In feudal Japan, lords purposely built homes with squeaky floors as a defensive measure against ninjas.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'In 2015, Ariana Grande won two MTV Millennial Awards for the “Global Instagrammer of the Year” and “International Hit of the Year” with her single “One Last Time“.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'The word “peacock” does not actually apply to both male and female birds. It’s only the males that are called peacocks, while the females are called peahens. Together, the collective name for them is “peafowl”.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Evangeline Lilly is a notoriously bad driver. She has been in at least 8 car accidents, and none of them were with another car.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'In 1993, Aleksandr A. Serebrov took his Game Boy to space. Later, it was auctioned for $1,220 and is said to have orbited earth 3,000 times.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'The patterns on a giraffe are totally unique – no two giraffes are ever the same.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Geomelophagia is someone who has the urge to eat raw potatoes.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Drink green tea before bed to burn calories while sleeping. Green tea will also increase your metabolism.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'As of May 2015, 2.3 Million Americans still subscribed to AOL Dial-Up Internet.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'The average inmate at Alcatraz read 75-100 books per year.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'There are computers designed for Amish people, with selling points like “No internet, no video, no music”.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Overall Subway, actually has more chains than the fast-food juggernaut, McDonald’s.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'In Texas, according to Texas Parks and Wildlife Department, it is legal to kill Bigfoot if you find it. It would be considered a non-protected nongame animal.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'During 1922 & 1933, The Coca-Cola Company was offered a chance to buy the Pepsi-Cola company, and it declined on three separate occasions.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Putting your phone in airplane mode will stop ads while playing games.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Cardi B’s birth name is Belcalis Almanzar.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'A group of whales is called a pod.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Bumblebees have hair on their eyes.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'The word “Android” means a human with a male robot appearance.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Triton, one of Neptune’s moons, is gradually getting closer to the planet it orbits.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'The Earth is the only planet in our solar system not named after either a Greek or Roman God.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Kiss means “pee” in Swedish.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'In New Jersey, it’s illegal to wear a bulletproof vest while committing a violent crime.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'The most leaves ever found on a single clover is 56.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'There is actually a difference between coffins and caskets – coffins are typically tapered and six-sided, while caskets are rectangular.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            '“Strategic incompetence” is the art of avoiding certain tasks by pretending you don’t know how to do them.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'A 23 sided shape is called an Icosakaitrigon.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Turkeys aren’t just for Christmas. June is National Turkey Lover’s Month.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'When Pablo Picasso died in 1973, he was the richest artist in history.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'The inventor of Vaseline, Robert Chesebrough, ate a spoonful of the stuff every single day.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            '“Led Zeppelin” originally wanted to be called “Lead Zeppelin” but they felt that “thick Americans” would pronounce the word wrong.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'The serial number on Darth Vader’s suit of armor was E-3778Q-1.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'More than 45 million turkeys are cooked and eaten in the U.S. at Thanksgiving.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Liège, Belgium tried to use 37 cats to deliver mail in the 1870s. Most of the cats took up to a day to deliver the mail, and the service was short-lived.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'A female’s heart is smaller than a male’s by about 25%. Because of this, the female heart has to beat around six times more than a male heart to pump the correct amount of blood around the body.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'In 2000 the first permanent crew inhabited the International Space Station (ISS), and have been there ever since.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Turkey vultures use defensive vomit to get rid of any disturbing animal. They can propel their vomit up to 10 feet.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'During World War II, the very first bomb dropped on Berlin by the Allies killed the only elephant in Berlin Zoo.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Peaches are the third most popular fruit grown in America.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Emilie de Ravin‘s biggest TV role as Claire Littleton on the hit show “Lost“, loves peanut butter – which is unintentionally ironic because Emilie is allergic to peanuts. In reality, her biggest weakness is actually chocolate.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Jupiter has 69 moons. A few are 12-37 miles in diameter, but most are barely 1 mile in size. Jupiter itself is 317 times the mass of the Earth.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'In a survey, 33% of dog owners admitted to chatting over the telephone to their dogs.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'Losing Weight is the most common New Year’s resolution.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'A sunset on Mars is blue.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'The smallest possible measurement of length is known as the Planck Length. Anything smaller than this would break everything we understand about physics',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'The social media website, MySpace, was founded in 2003 and sold for $580 million in 2005. At this time, it was the most visited social networking site in the world, and even surpassed Google as the most visited website in the United States!',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'One of the earliest depictions of dreadlocks dates back to 1600 BC to the Minoan Civilization, one of Europe’s earliest civilizations, who lived in what is now known as Greece.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'The most expensive domain name ever sold was cars.com for an astonishing $872.3 million.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Polygamy is the practice of having more than one husband or wife at the same time. Polygyny is where a man is married to more than one woman, and Polyandry is where a woman is married to more than one husband.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'As of September 2016, the Giant Panda was downgraded from “endangered” to “vulnerable” on the Global List of Species at Risk of Extinction.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'The world’s oldest surviving bank is “Banca Monte dei Paschi di Siena”, which was founded in 1472, and is currently Italy’s 3rd largest bank.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'The letter Z is the least frequently used letter in written English. It is more common in American English than in British English due to spelling differences.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'The cardboard holder that you often get around a takeaway cup of coffee is called a “zarf”.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'The logo for the Monster energy drink cans is not an M as most believe, but are claw marks from a monster ripping through the can. In 2014 a YouTube video gained an international audience when they claimed that each segment of the claw mark looks like the Hebrew symbol for the number six, making the logo into 666, the number of the Beast.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'The largest pumpkin pie ever baked was in 2005, and weighed 2,020 pounds, or just over 916kg.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'The Triangle took nearly 100 years to become a popular orchestral instrument.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'The first computer virus ever created was called Creeper, back in 1971. Shortly after this virus was created, Reaper was created as the world’s first anti-virus.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'The earliest mention of the mythical creature, the Unicorn, dates back from as far as 2700 BC in Asia and was described as a creature of great power and wisdom.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text: 'The oldest webcam stream online today is The San Francisco FogCam and has been operational since 1994.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'In Japanese legend, it is said that anyone who folds 1,000 origami cranes will be granted a wish by the gods.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
+    {
+        text:
+            'Doggerland is the area of land connecting Great Britain to continental Europe. It was flooded by rising sea-levels (6500-6200 BC), turning Great Britain into an island.',
+        source: 'https://www.thefactsite.com/1000-interesting-facts/',
+    },
 ];
 
 export default facts;

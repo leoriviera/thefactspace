@@ -5424,7 +5424,7 @@ const facts = [
         source: 'https://www.cs.cmu.edu/~bingbin/',
     },
     {
-        text: 'The elephant is the only animal with 4 knees.',
+        text: 'The elephant is the only animal with four forward-facing knees.',
         source: 'https://www.cs.cmu.edu/~bingbin/',
     },
     {

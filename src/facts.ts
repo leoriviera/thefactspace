@@ -599,7 +599,7 @@ const facts = [
     },
     {
         text:
-            "The expression 'to get fired' comes from long ago Clans that wanted to get rid of unwanted people, so they would burn their houses instead of killing them, creating the term 'Got fired'.",
+            "The expression 'to get fired' comes from long ago. When clans wanted to get rid of unwanted people, they would burn their houses instead of killing them, creating the term 'Got fired'.",
         source: 'https://www.djtech.net/humor/useless_facts.htm',
     },
     {
@@ -1424,7 +1424,8 @@ const facts = [
     },
     {
         text: 'The national anthem of Greece originally had 158 verses.',
-        source: 'https://checkthisstuff.wordpress.com/2013/10/08/the-national-anthem-of-greece-has-158-verses-no-one-in-greece-has-memorized-all-158-verses/',
+        source:
+            'https://checkthisstuff.wordpress.com/2013/10/08/the-national-anthem-of-greece-has-158-verses-no-one-in-greece-has-memorized-all-158-verses/',
     },
     {
         text: "Two-thirds of the world's eggplant is grown in New Jersey.",

@@ -20,11 +20,9 @@ app.get('/', (_, res) => {
     const fact = getRandomFact();
     const factCount = facts.length;
 
-    console.log(factCount);
-
     res.render('index', {
         ...fact,
-        count,
+        factCount,
     });
 });
 

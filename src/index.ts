@@ -4,30 +4,45 @@ import facts from './facts';
 
 const getRandomFact = () => {
     // Generate random number between 0 and facts.length - 1
-    const randomIndex = Math.floor(Math.random() * facts.length);
+    const index = Math.floor(Math.random() * facts.length);
     // Get random fact
-    const randomFact = facts[randomIndex];
-    // Serve (with correct mime type)
-    // See https://expressjs.com/en/api.html#express.json
-    return randomFact;
+    const fact = facts[index];
+    return { index, fact };
 };
 
 const app = express();
 app.set('view engine', 'pug');
 
 app.get('/', (_, res) => {
-    const randomFact = getRandomFact();
-    const count = facts.length;
+    const { index, fact } = getRandomFact();
+    const factCount = facts.length;
 
     res.render('index', {
-        ...randomFact,
-        count,
+        index,
+        ...fact,
+        factCount,
     });
 });
 
+app.get('/fact/:index?', (req, res) => {
+    const { index } = req.params;
+    const indexInt = parseInt(index);
+
+    console.log(index, indexInt, indexInt == NaN);
+
+    if (isNaN(indexInt)) {
+        res.redirect('/random');
+    }
+
+    const fact = facts[indexInt];
+
+    res.json(fact);
+});
+
 app.get('/random', (_, res) => {
-    const randomFact = getRandomFact();
-    res.json(randomFact);
+    const fact = getRandomFact();
+
+    res.json(fact);
 });
 
 const port = process.env.PORT || 3000;

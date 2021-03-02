@@ -2716,7 +2716,7 @@ const facts = [
         source: 'http://www.djtech.net/humor/shorty_useless_facts.htm',
     },
     {
-        text: ' Dueling is legal in Paraguay as long as both parties are registered blood donors.',
+        text: 'Dueling is legal in Paraguay as long as both parties are registered blood donors.',
         source: 'http://www.djtech.net/humor/shorty_useless_facts.htm',
     },
     {
@@ -10596,6 +10596,841 @@ const facts = [
     {
         text: 'The U.S. Supreme Court has previously ruled that tomatoes are vegetables.',
         source: 'https://www.sporcle.com/blog/2018/11/101-more-interesting-trivia-facts/',
+    },
+
+    {
+        text:
+            "There is only one Tube station which does not have any letters of the word 'mackerel' in it: St John's Wood.",
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
+    },
+    {
+        text: 'The average speed on the Underground is 20.5 miles per hour including station stops.',
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
+    },
+    {
+        text:
+            "The busiest Tube station is Waterloo, which was used by around 95 million passengers in 2015. In 2014 Oxford Circus took top spot, in 2009 it was Victoria, and in 2005 it was King's Cross, ",
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
+    },
+    {
+        text: 'On the Metropolitan line, trains can reach over 60mph.',
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
+    },
+    {
+        text:
+            'The shortest distance between two adjacent stations on the underground network is only 260 metres. The tube journey between Leicester Square and Covent Garden on the Piccadilly Line takes only about 20 seconds, but costs £4.90 (cash fare). Yet it still remains one of the most popular journeys with tourists.',
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
+    },
+    {
+        text:
+            'Many tube stations were used as air-raid shelters during the Second World War, but the Central Line was even converted into a fighter aircraft factory that stretched for over two miles, with its own railway system. Its existence remained an official secret until the 1980s.',
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
+    },
+    {
+        text: "Angel has the Underground's longest escalator at 60m/197ft, with a vertical rise of 27.5m.",
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
+    },
+    {
+        text: 'The shortest escalator is Stratford, with a vertical rise of 4.1m.',
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
+    },
+    {
+        text: 'Only 45 per cent of the Underground is actually in tunnels.',
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
+    },
+    {
+        text:
+            'The longest distance between stations is on the Metropolitan line from Chesham to Chalfont & Latimer: a total of only 3.89 miles.',
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
+    },
+    {
+        text:
+            'The longest continuous tunnel is on the Northern line and runs from East Finchley to Morden (via Bank), a total of 17.3 miles.',
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
+    },
+    {
+        text:
+            'Aldgate Station, on the Circle and Metropolitan Lines, is built on a massive plague pit, where more than 1,000 bodies are buried.',
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
+    },
+    {
+        text:
+            'The longest journey without change is on the Central line from West Ruislip to Epping, and is a total of 34.1 miles.',
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
+    },
+    {
+        text: 'The deepest station is Hampstead on the Northern line, which runs down to 58.5 metres.',
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
+    },
+    {
+        text:
+            'In Central London the deepest station below street level is also the Northern line. It is the DLR concourse at Bank, which is 41.4 metres below.',
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
+    },
+    {
+        text:
+            'The TARDIS, (Dr Who’s transport) can be found outside Earl’s Court station. Or at least an old police call box can.',
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
+    },
+    {
+        text: 'The London Underground manages about 10 per cent of all green spaces in London.',
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
+    },
+    {
+        text:
+            'Wildlife observed on the Tube network includes woodpeckers, deer, sparrowhawk, bats, grass snakes, great crested newts, slow worms.',
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
+    },
+    {
+        text:
+            'Over 47 million litres water are pumped from the Tube each day, enough to fill a standard leisure centre swimming pool (25 metres x 10 metres) every quarter of an hour.',
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
+    },
+    {
+        text: 'The London Underground trains were originally steam powered.',
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
+    },
+    {
+        text:
+            'The station with the most platforms is Baker Street with 10 (Moorgate also has 10 platforms but only six are used by Tube trains - others are used by overground trains).',
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
+    },
+    {
+        text: 'The District Line has the most stations: 60.',
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
+    },
+    {
+        text: 'The Waterloo and City Line has the fewest stations (no intermediate stations)',
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
+    },
+    {
+        text: 'The Underground name first appeared on stations in 1908.',
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
+    },
+    {
+        text: 'London Underground has been known as the Tube since 1890 due to the shape of the tunnels.',
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
+    },
+    {
+        text: 'The first deep-level electric railway line also opened in 1890.',
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
+    },
+    {
+        text: "The Tube's logo is known as “the roundel” (a red circle crossed by a horizontal blue bar)",
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
+    },
+    {
+        text: 'The station with the most escalators is Waterloo with 23.',
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
+    },
+    {
+        text:
+            "The total number of passengers carried during 2013/14 was 1.265 billion – making it the world's 11th busiest metro.",
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
+    },
+    {
+        text: 'The highest station above sea level is Amersham, at 147 metres.',
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
+    },
+    {
+        text: 'Tube trains travelled 76.4 million kilometres last year.',
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
+    },
+    {
+        text:
+            'The Northern line has the highest maximum number of trains required for scheduled peak period service: 91.',
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
+    },
+    {
+        text: 'The Waterloo & City line has the fewest scheduled for peak period service at just five.',
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
+    },
+    {
+        text: 'The total length of the London Underground network is 250 miles.',
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
+    },
+    {
+        text:
+            'In 1926, suicide pits were installed beneath tracks due to a rise in the numbers of passengers throwing themselves in front of trains.',
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
+    },
+    {
+        text:
+            'The eastern extension of the Jubilee line is the only Underground line to feature glass screens to deter "jumpers".',
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
+    },
+    {
+        text: 'The earliest trains run from Osterley to Heathrow on the Piccadilly line, starting at 4.45am.',
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
+    },
+    {
+        text:
+            'The greatest elevation above the ground level is on the Northern line at Dollis Brook viaduct over Dollis road, Mill Hill: it rises a total of 18 metres (60ft).',
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
+    },
+    {
+        text: 'One of the early names proposed for the Victoria Line was the Viking line.',
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
+    },
+    {
+        text:
+            'In 1924, the first baby was born on the Underground, on a train at Elephant & Castle on the Bakerloo line.',
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
+    },
+    {
+        text:
+            'The American talk show host Jerry Springer was born at East Finchley during the Second World War: his mother had taken shelter in the station from an air raid.',
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
+    },
+    {
+        text:
+            'Builders working on the Bakerloo Line are reported to have suffered from the bends while tunnelling under the Thames.',
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
+    },
+    {
+        text:
+            'The inaugural journey of the first Central line train in 1900 had the Prince of Wales and Mark Twain on board.',
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
+    },
+    {
+        text: 'The tunnels beneath the City curve significantly because they follow its medieval street plan.',
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
+    },
+    {
+        text:
+            'The Central line introduced the first flat fare when it opened at the turn of the 20th century. The tuppence fare lasted until the end of June 1907 when a threepenny fare was introduced for longer journeys.',
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
+    },
+    {
+        text:
+            'Charles Pearson, MP and Solicitor to the City of London, is credited with successfully campaigning for the introduction of the Underground. He died in 1862 shortly before the first train ran.',
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
+    },
+    {
+        text: "The first escalator on the Underground was installed at Earl's Court in 1911.",
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
+    },
+    {
+        text:
+            'The first crash on the Tube occurred in 1938 when two trains collided between Waterloo and Charing Cross, injuring 12 passengers.',
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
+    },
+    {
+        text:
+            'Harry Beck produced the well known Tube map diagram while working as an engineering draughtsman at the London Underground Signals Office. He was reportedly paid 10 guineas (£10.50) for his efforts.',
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
+    },
+    {
+        text:
+            'Harry Beck’s map was considered too big a departure from the norm, but the public liked it and it became official in 1933.',
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
+    },
+    {
+        text: 'Busking has been licensed on the Tube since 2003.',
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
+    },
+    {
+        text: 'Sting and Paul McCartney are both rumoured to have busked on the Underground in disguise.',
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
+    },
+    {
+        text:
+            'The phrase "Mind the gap" dates back to 1968. The recording that is broadcast on stations was first done by Peter Lodge, who had a recording company in Bayswater.',
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
+    },
+    {
+        text:
+            'The Peter Lodge recording of “Mind the Gap” is still in use, but some lines use recordings by a Manchester voice artist Emma Clarke. On the Piccadilly line the recording is notable for being the voice of Tim Bentinck, who plays David Archer in The Archers.',
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
+    },
+    {
+        text:
+            'The Jubilee Line was the only Underground Line to connect with all the others until the East London line ceased to be part of the Underground in 2007 (now the Central Line does too). ',
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
+    },
+    {
+        text: 'Approximately 50 passengers a year kill themselves on the Underground.',
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
+    },
+    {
+        text: 'Fewer than 10 per cent of Tube stations lie south of the Thames.',
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
+    },
+    {
+        text: 'The total number of lifts on the Underground, including four stair lifts, is 167.',
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
+    },
+    {
+        text:
+            "Smoking was banned on the Underground as a result of the King's Cross fire in November 1987 which killed 31 people. A discarded match was thought to be the cause of that inferno.",
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
+    },
+    {
+        text: 'An estimated half a million mice live in the Underground system.',
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
+    },
+    {
+        text: '1961 marked the end of steam and electric haulage of passenger trains on the London Underground.',
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
+    },
+    {
+        text:
+            'One of the levels in Tomb Raider 3 is set in the disused Aldwych tube station, featuring scenes of Lara Croft killing rats.',
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
+    },
+    {
+        text:
+            'In the film Harry Potter and the Philosopher’s Stone, the Hogwarts headmaster has a scar that resembles a map of the London Underground on his knee.',
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
+    },
+    {
+        text: 'There are only two tube station names that contain all five vowels: Mansion House, and South Ealing.',
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
+    },
+    {
+        text:
+            'Edward Johnston designed the font for the London Underground in 1916. The font he came up with is still in use today.',
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
+    },
+    {
+        text: 'Amersham is also the most westerly tube station, as well as the highest (see above).',
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
+    },
+    {
+        text: 'A macabre statistic is that the most popular tube suicide time is around 11am.',
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
+    },
+    {
+        text:
+            'In January 2005, in an attempt to alleviate a problem with loitering young people, the London Underground announced it would play classical music at problem stations.',
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
+    },
+    {
+        text: 'The Underground has the oldest section of underground railway in the world, which opened in 1863.',
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
+    },
+    {
+        text:
+            "The first section of the Underground ran between Paddington (Bishop's Road) and Farringdon Street. The same section now forms part of the Circle, Hammersmith & City, and Metropolitan lines.",
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
+    },
+    {
+        text: 'The Underground was first used for air raid shelters in September 1940.',
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
+    },
+    {
+        text:
+            'During the Second World War, part of the Piccadilly line (Holborn - Aldwych branch), was closed and British Museum treasures were stored in the empty spaces.',
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
+    },
+    {
+        text:
+            'The London Passenger Transport Board was nationalised and became the London Transport Executive in 1948.',
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
+    },
+    {
+        text: 'The first Tube tunnel was opened in 1880, running from the Tower of London to Bermondsey.',
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
+    },
+    {
+        text: "The Central Line used to be nicknamed as the 'Twopenny Tube' for its flat fare.",
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
+    },
+    {
+        text: 'Dot matrix train destination indicators were introduced onto London Underground platforms in 1983.',
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
+    },
+    {
+        text:
+            'The single worst accident in terms of fatalities on the Underground occurred on February 28, 1975 at Moorgate, when 42 people died.',
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
+    },
+    {
+        text: 'The Piccadilly line extended to serve Heathrow Terminal 4 in 1986.',
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
+    },
+    {
+        text: 'Penalty fares were only introduced in 1994.',
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
+    },
+    {
+        text: 'The Tube carried one billion passengers in a year for the first time in 2007.',
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
+    },
+    {
+        text:
+            'The last manually operated doors on Tube trains (replaced by air-operated doors) were phased out in 1929.',
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
+    },
+    {
+        text:
+            'The Jubilee Line was named to mark Queen Elizabeth II’s Silver Jubilee in 1977 – but the line did not open until 1979.',
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
+    },
+    {
+        text:
+            'A census carried out on September 27, 1940, found that 177,500 Londoners were sleeping in Tube stations.',
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
+    },
+    {
+        text:
+            'During the war, special supply trains ran, providing seven tonnes of food and 2,400 gallons of tea and cocoa every night to people staying in the Tube.',
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
+    },
+    {
+        text:
+            'Covent Garden is believed to be haunted by the ghost of William Terris who met an untimely death near the station in 1897.',
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
+    },
+    {
+        text:
+            'Another station that is believed to be haunted is Farringdon. The so-called Screaming Spectre is believed to have been a milliner.',
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
+    },
+    {
+        text:
+            'The Seven Sisters Underground station is believed to have been named after a line of elm trees which stood nearby until the 1830s.',
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
+    },
+    {
+        text:
+            'The fictitious station of Walford East, which features in the long-running soap opera Eastenders, is supposed to be on the District Line.',
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
+    },
+    {
+        text: 'Every week, Underground escalators travel the equivalent distance of going twice around the world.',
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
+    },
+    {
+        text:
+            'According to TFL, London Underground trains travel a total of 1,735 times around the world (or 90 trips to the moon and back) each year.',
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
+    },
+    {
+        text:
+            'A spiral escalator was installed in 1907 at Holloway Road station, but linear escalators were favoured for the rest of the network. A small section of the spiral escalator is in the Acton depot.',
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
+    },
+    {
+        text:
+            'A small section of the old London Wall survives in the trackside walls of Tower Hill station at platform level. One of the largest pieces of the wall also stands just outside this station.',
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
+    },
+    {
+        text:
+            'Finsbury Park station has murals that show a pair of duelling pistols, harking back to a time when men would visit the park after hours to defend their honour.',
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
+    },
+    {
+        text: 'In 2012, the most complained about line was the Jubilee.',
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
+    },
+    {
+        text:
+            'The London Underground is thought to be the third largest metro system in the world, in terms of miles, after the Beijing Subway and the Shanghai Metro.',
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
+    },
+    {
+        text: 'The London Underground is the third busiest metro system in Europe, after Moscow and Paris.',
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
+    },
+    {
+        text:
+            'The coffin of Dr. Thomas Barnardo was carried in funeral cortege on an underground train in 1905, one of only two occasions this is known to have happened.',
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
+    },
+    {
+        text: 'The Underground helped over 200,000 children escape to the countryside during the Second World War.',
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
+    },
+    {
+        text:
+            'During the war, some stations (now mostly disused) were converted into government offices: a station called Down Street was used for meetings of the Railway Executive Committee, as well as for the War Cabinet before the Cabinet War Rooms were built.',
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
+    },
+    {
+        text:
+            'Brompton Road (now disused) on the Piccadilly, Line was apparently used as a control room for anti-aircraft guns.',
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
+    },
+    {
+        text: 'Only five London Underground stations lie outside the M25 motorway',
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
+    },
+    {
+        text:
+            'The Underground runs 24 hours a day at New Year, during special events (such as for the opening and closing ceremonies of the London Olympics), and on selected lines at the weekend.',
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
+    },
+    {
+        text:
+            'According to a 2002 study air quality on the Underground was 73 times worse than at street level, with 20 minutes on the Northern Line having "the same effect as smoking a cigarette".',
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
+    },
+    {
+        text:
+            "The former poet laureate John Betjeman created 'Metroland' series, a homage to the people and places served by the Metropolitan line in 1973.",
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
+    },
+    {
+        text: 'The Oyster card was introduced in 2003.',
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
+    },
+    {
+        text:
+            'The worst civilian death toll on the Underground occurred at Bethnal Green Tube tragedy in 1943, when 173 people died. It is the largest loss of life in a single incident on the London Underground network.',
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
+    },
+    {
+        text: 'The largest number of people killed by a single wartime bomb was 68 at Balham Station.',
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
+    },
+    {
+        text:
+            'The 100th anniversary of the roundel (the Tube Logo) was celebrated in 2008 by TfL commissioning 100 artists to produce works that celebrate the design.',
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
+    },
+    {
+        text: 'The largest Tube car park is at Epping and has 599 parking spots.',
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
+    },
+    {
+        text:
+            'The Central Line has the most tube stations with no surface building (Bank, Bethnal Green, Chancery Lane, Gants Hill, Notting Hill Gate)',
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
+    },
+    {
+        text: 'Of the stations that have stairs, Hampstead Station has the most steps (320 in total).',
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
+    },
+    {
+        text: 'There are 14 journeys between stations that take less than a minute on average.',
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
+    },
+    {
+        text:
+            "King's Cross St Pancras tube station is served by more Underground lines than any other station on the network.",
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
+    },
+    {
+        text:
+            'Seven London Boroughs are not served by the underground system, six of them being situated south of the River Thames.',
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
+    },
+    {
+        text: "The total number of carriages in London Underground's fleet, as of January 2013, was 4,134.",
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
+    },
+    {
+        text: 'The total number of stations served on the network is 270.',
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
+    },
+    {
+        text:
+            'London Underground transferred from the control of the Government to Transport for London (TfL) on July 15, 2003.',
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
+    },
+    {
+        text:
+            'Scenes from the film Sliding Doors were shot at Waterloo station on the Waterloo & City Line and at Fulham Broadway tube station on the District Line.',
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
+    },
+    {
+        text:
+            'Filming on location in the Underground costs £500 per hour (plus VAT) unless you have a crew of less than five.',
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
+    },
+    {
+        text:
+            'You can now no longer go around the Circle Line in a full circle. From 2009, the Circle Line terminated at Edgware Road.',
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
+    },
+    {
+        text:
+            'Greenford on the Central Line was the last Tube station to use wooden escalators. They were replaced in 2014. ',
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
+    },
+    {
+        text: 'Arsenal (originally Gillespie Road) on Piccadilly line is the only station named after a football team.',
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
+    },
+    {
+        text:
+            'There are three tube stations on the Monopoly board: Liverpool Street Station, King’s Cross and Marylebone.',
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
+    },
+    {
+        text: 'The number of stations that only use escalators is 12',
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
+    },
+    {
+        text: 'Nineteen stations just use lifts.',
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
+    },
+    {
+        text:
+            'The River Westbourne was funnelled above a platform on Sloane Square in a large iron pipe suspended from girders. It remains in place today.',
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
+    },
+    {
+        text:
+            'The first tube station to be demolished was Westbourne Park on the Metropolitan Line. It was re-sited in 1871.',
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
+    },
+    {
+        text:
+            'There is a mosquito named after the Tube – the London Underground mosquito, which was found in the London Underground. It was notable for its assault of Londoners sleeping in the Underground during the Blitz.',
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
+    },
+    {
+        text: 'The London Underground Film Office handles over 200 requests a month.',
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
+    },
+    {
+        text:
+            'In Alfred Hitchcock’s first feature film The Lodger (1926) featured the director making a cameo on the Tube.',
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
+    },
+    {
+        text:
+            'The record for visiting all the stations on the London Underground network – known as the Tube Challenge – is currently held by Ronan McDonald and Clive Burgess of the United Kingdom, who completed the challenge in 16 hours, 14 minutes and 10 seconds on February 19, 2015',
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
+    },
+    {
+        text:
+            'The Tube Challenge record did not appear in the Guinness book of records until its eighth edition in 1960, when it stood at 18 hours, 35 minutes.',
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
+    },
+    {
+        text: 'An interactive novel has been published, set on the London Underground. You can read it here.',
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
+    },
+    {
+        text: 'In cockney rhyming slang, the London Underground is known as the Oxo (Cube/Tube).',
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
+    },
+    {
+        text:
+            'Around 30,000 passengers went on The Metropolitan Line on its first day of public business – January 10, 1863.',
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
+    },
+    {
+        text:
+            'There were claims the first baby born on the Underground was called Thelma Ursula Beatrice Eleanor (so that her initials would have read TUBE) but this story later proved false – her actual name was Marie Cordery.',
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
+    },
+    {
+        text:
+            'On August 3 2012, during the Olympic Games, the London Underground had its most hectic day ever, carrying 4.4 million passengers – but that record was beaten on Friday December 4 2015, when 4.82 million people used it. ',
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
+    },
+    {
+        text:
+            'St James is the only Underground Station to have Grade-I protected status. It includes 55 Broadway, the administrative headquarters of London’s Underground since the 1930s.',
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
+    },
+    {
+        text: 'The most recent Tube birth – a boy – was in 2009.',
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
+    },
+    {
+        text: 'The most common location for filming is Aldwych, a disused station.',
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
+    },
+    {
+        text:
+            'As Princess Elizabeth, the Queen travelled on the Underground for the first time in May 1939, when she was 13 years old, with her governess Marion Crawford and Princess Margaret.',
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
+    },
+    {
+        text: 'Poems on the Underground was launched in 1986, the idea of American writer Judith Chernaik.',
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
+    },
+    {
+        text:
+            "A series of animal shapes have also been highlighted in the London Underground map, first discovered by Paul Middlewick in 1988. They're created using the tube lines, stations and junctions of the London Underground map.",
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
+    },
+    {
+        text:
+            'A fragrance known as Madeleine was trialled at St. James Park, Euston, and Piccadilly stations in 2001, intended to make the Tube more pleasant. It was stopped within days after complaints from people saying they felt ill.',
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
+    },
+    {
+        text:
+            'There were eight deep-level shelters built under the London Underground in the Second World War. One of them in Stockwell is decorated as a war memorial.',
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
+    },
+    {
+        text: 'After the war, the deep level shelter at Clapham South housed immigrants from the West Indies.',
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
+    },
+    {
+        text:
+            'A 2011 study suggested 30 per cent of passengers take longer routes due to the out-of-scale distances on the Tube map.',
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
+    },
+    {
+        text: 'The first ever air-conditioned, walk-through Underground train ran on the Metropolitan line in 2010.',
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
+    },
+    {
+        text: 'The average distance travelled by each Tube train annually stands at around 114,500 miles.',
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
+    },
+    {
+        text: 'Alcohol was banned on the Tube – and all London Transport – from June 2008.',
+        source:
+            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
     },
 ];
 

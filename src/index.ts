@@ -1,9 +1,12 @@
 import path from 'path';
 
+import dotenv from 'dotenv';
 import express from 'express';
 import favicon from 'serve-favicon';
 
 import facts from './facts';
+
+dotenv.config();
 
 // Get the total number of facts
 const factCount = facts.length;

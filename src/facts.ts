@@ -2000,10 +2000,6 @@ const facts = [
         source: 'http://www.djtech.net/humor/shorty_useless_facts.htm',
     },
     {
-        text: 'On average, 100 people choke to death on ball-point pens every year.',
-        source: 'http://www.djtech.net/humor/shorty_useless_facts.htm',
-    },
-    {
         text: 'Thirty-five percent of the people who use personal ads for dating are already married.',
         source: 'http://www.djtech.net/humor/shorty_useless_facts.htm',
     },
@@ -3734,10 +3730,6 @@ const facts = [
         source: 'http://www.djtech.net/humor/shorty_useless_facts.htm',
     },
     {
-        text: 'Lithuania has the highest suicide rate in the world.',
-        source: 'http://www.djtech.net/humor/shorty_useless_facts.htm',
-    },
-    {
         text: 'The country code for Russia is "007".',
         source: 'http://www.djtech.net/humor/shorty_useless_facts.htm',
     },
@@ -4495,10 +4487,6 @@ const facts = [
         source: 'https://bestlifeonline.com/random-fun-facts/',
     },
     {
-        text: 'One man has saved more than 200 people from suicide.',
-        source: 'https://bestlifeonline.com/random-fun-facts/',
-    },
-    {
         text: 'Our European ancestors were cannibals.',
         source: 'https://bestlifeonline.com/random-fun-facts/',
     },
@@ -5028,10 +5016,6 @@ const facts = [
     },
     {
         text: 'The surface area of an average-sized brick is 79 cm squared.',
-        source: 'https://www.cs.cmu.edu/~bingbin/',
-    },
-    {
-        text: 'According to suicide statistics, Monday is the favored day for self-destruction.',
         source: 'https://www.cs.cmu.edu/~bingbin/',
     },
     {
@@ -5949,11 +5933,6 @@ const facts = [
     },
     {
         text: 'The Marshal Mathers foundation for at-risk and disadvantaged youth was founded by Eminem.',
-        source: 'https://www.thefactsite.com/1000-interesting-facts/',
-    },
-    {
-        text:
-            'A man with severe OCD and a phobia of germs attempted to commit suicide with a gun to his head. Instead of killing him, the bullet eliminated his mental illness without any other damage.',
         source: 'https://www.thefactsite.com/1000-interesting-facts/',
     },
     {
@@ -7693,7 +7672,7 @@ const facts = [
     },
     {
         text:
-            'A certain type of box jellyfish’s venom will make you feel a strong sense of anxiety and sense of impending doom, and possibly thoughts of suicide. These symptoms can last up to two weeks.',
+            'A certain type of box jellyfish’s venom will make you feel a strong sense of anxiety and sense of impending doom. These symptoms can last up to two weeks.',
         source: 'https://www.thefactsite.com/1000-interesting-facts/',
     },
     {
@@ -7859,11 +7838,6 @@ const facts = [
     {
         text:
             'A man, Ben Sliney, grounded 4,000 commercial planes across the United States on 9/11 due to the attacks – it was his first day on the job.',
-        source: 'https://www.thefactsite.com/1000-interesting-facts/',
-    },
-    {
-        text:
-            'Elton John tried to commit suicide once by sticking his head in an oven with the gas on low and windows open. He was found and stopped by his best friend Bernie Taupin.',
         source: 'https://www.thefactsite.com/1000-interesting-facts/',
     },
     {
@@ -8670,11 +8644,6 @@ const facts = [
     {
         text:
             'If the electors of the Holy Roman Emperor did not vote within 30 days, they were only allowed to eat bread and water and forbidden to leave the city.',
-        source: 'https://www.thefactsite.com/1000-interesting-facts/',
-    },
-    {
-        text:
-            'A woman once tried to commit suicide by jumping off the Empire State Building. She jumped from the 86th floor but was blown back onto the 85th floor by a gust of wind.',
         source: 'https://www.thefactsite.com/1000-interesting-facts/',
     },
     {
@@ -10785,12 +10754,6 @@ const facts = [
     },
     {
         text:
-            'In 1926, suicide pits were installed beneath tracks due to a rise in the numbers of passengers throwing themselves in front of trains.',
-        source:
-            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
-    },
-    {
-        text:
             'The eastern extension of the Jubilee line is the only Underground line to feature glass screens to deter "jumpers".',
         source:
             'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
@@ -10959,11 +10922,6 @@ const facts = [
     },
     {
         text: 'Amersham is also the most westerly tube station, as well as the highest (see above).',
-        source:
-            'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
-    },
-    {
-        text: 'A macabre statistic is that the most popular tube suicide time is around 11am.',
         source:
             'https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/London-Underground-150-fascinating-Tube-facts/',
     },

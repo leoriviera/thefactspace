@@ -15,11 +15,15 @@ const getFact = (index: number) => {
     // Get fact at index
     const fact = facts[index];
 
-    // Return destructred fact with index
-    return {
-        index,
-        ...fact,
-    };
+    if (fact) {
+        // Return destructred fact with index
+        return {
+            index,
+            ...fact,
+        };
+    }
+
+    return undefined;
 };
 
 // Get a random fact
@@ -82,7 +86,7 @@ app.get('/fact/:index?', (req, res) => {
             res.json(fact);
         } else {
             // Send error
-            res.status(404).send({
+            res.status(404).json({
                 index: indexInt,
                 text: `Fact #${indexInt} hasn't been added, yet!`,
             });

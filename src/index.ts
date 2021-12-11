@@ -75,23 +75,48 @@ app.get('/fact/:index?', (req, res) => {
     if (isNaN(indexInt)) {
         // Redirect to a random fact instead
         res.redirect('/random');
-    } else {
-        // Try to get the the fact
-        const fact = getFact(indexInt);
-
-        // If the fact is not undefined,
-        // (and in the array's bounds)
-        if (fact !== undefined) {
-            // Send the fact
-            res.json(fact);
-        } else {
-            // Send error
-            res.status(404).json({
-                index: indexInt,
-                text: `Fact #${indexInt} hasn't been added, yet!`,
-            });
-        }
+        return;
     }
+
+    // Try to get the the fact
+    const fact = getFact(indexInt);
+
+    // If the fact is undefined...
+    if (fact === undefined) {
+        // Send error
+        res.status(404).json({
+            index: indexInt,
+            text: `Fact #${indexInt} hasn't been added, yet!`,
+        });
+        return;
+    }
+
+    // If the fact is not undefined,
+    // (and in the array's bounds),
+    // send fact
+    res.json(fact);
+    return;
+});
+
+app.get('/facts/:number', (req, res) => {
+    // Set pagination multiple
+    const multiple = 100;
+    const { number } = req.params;
+
+    // Get page number
+    const pageNumber = parseInt(number);
+
+    if (isNaN(pageNumber) || pageNumber < 0) {
+        res.status(404).json({
+            text: "This page doesn't exist!",
+        });
+        return;
+    }
+
+    const startIndex = pageNumber * multiple;
+    const endIndex = startIndex + multiple;
+    const factPage = facts.slice(startIndex, endIndex);
+    res.json(factPage);
 });
 
 // Get the port

@@ -8,15 +8,21 @@ import facts from './facts';
 
 dotenv.config();
 
+type Fact = {
+    text: string;
+    source: string;
+    index: number;
+};
+
 // Get the total number of facts
 const factCount = facts.length;
 
-const getFact = (index: number) => {
+const getFact = (index: number): Fact | undefined => {
     // Get fact at index
     const fact = facts[index];
 
     if (fact) {
-        // Return destructred fact with index
+        // Return destructured fact with index
         return {
             index,
             ...fact,
